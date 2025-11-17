@@ -2750,35 +2750,25 @@ Sam swayed where he sat, but he spoke again:
 
 “That is why the transferred power is weak at first, but grows stronger as you continue occupancy. That is why it is best to cultivate an Attribute, and perhaps to employ mechanical aids, also.”
 
-“Well. That is something I have often wondered about. Thank you. By the way, keep trying with your death-gaz it is painful, you know. So that is something, anyway. Now, as to the sermon—a proud and arrogant man, such as yourself—with an admittedly admirable quality of didacticism about him—was given to doing research in the area of a certain disfiguring and degenerative disease. One day he contracted it himself. Since he had not yet developed a cure for the condition, he did take time out to regard himself in a mirror and say, ‘But on me it does look good.’ You are such a man, Yama. You will not attempt to fight your condition. Rather, you are proud of it. You betrayed yourself in your fury, so I know that I speak the truth when I say that the name of your disease is Kali. You would not give power into the hands of the unworthy if that woman did not bid you do it. I knew her of old, and I am certain that she has not changed. She cannot love a man. She cares only for those who bring her gifts of chaos. If ever you cease to suit her purposes, she will put.you aside, deathgod. I do not say this because we are enemies, but rather as one man to another. I know. Believe me, I do. Perhaps it is unfortunate that you
+“Well. That is something I have often wondered about. Thank you. By the way, keep trying with your death-gaz it is painful, you know. So that is something, anyway. Now, as to the sermon—a proud and arrogant man, such as yourself—with an admittedly admirable quality of didacticism about him—was given to doing research in the area of a certain disfiguring and degenerative disease. One day he contracted it himself. Since he had not yet developed a cure for the condition, he did take time out to regard himself in a mirror and say, ‘But on me it does look good.’ You are such a man, Yama. You will not attempt to fight your condition. Rather, you are proud of it. You betrayed yourself in your fury, so I know that I speak the truth when I say that the name of your disease is Kali. You would not give power into the hands of the unworthy if that woman did not bid you do it. I knew her of old, and I am certain that she has not changed. She cannot love a man. She cares only for those who bring her gifts of chaos. If ever you cease to suit her purposes, she will put you aside, deathgod. I do not say this because we are enemies, but rather as one man to another. I know. Believe me, I do. Perhaps it is unfortunate that you were never really young, Yama, and did not know your first love in the days of spring. ... The moral, therefore, of my sermon on this small mount is this—even a mirror will not show you yourself, if you do not wish to see. Cross her once to try the truth of my words, even in a small matter, and see how quickly she responds, and in what fashion. What will you do if your own weapons are turned against you, Death?”
 
-140 ROGER ZELAZNY
-
-were never really young, Yama, and did not know your first love in the days of spring. ... The moral, therefore, of my sermon on this small mount is this—even a mirror will not show you yourself, if you do not wish to see. Cross her once to try the truth of my words, even in a small matter, and see how quickly she responds, and in what fashion. What will you do if your own weapons are turned against you, Death?”
-
-“You have finished speaking now?” asked Yama. “That's about it. A sermon is a warning, and you
-
-have been warned.”
+“You have finished speaking now?” asked Yama. “That's about it. A sermon is a warning, and you have been warned.”
 
 “Whatever your power, Sam, I see that it is at this moment proof against my death-gaze. Consider yourself fortunate that I am weakened—”
 
 “I do indeed, for my head is about to split. Damn your eyes!”
 
-“One day I will try your power again, and even if it should still be proof against my own, you will fall on that day. M not by my Attribute, then by my blade.”
+“One day I will try your power again, and even if it should still be proof against my own, you will fall on that day. If not by my Attribute, then by my blade.”
 
 “If that is a challenge, I choose to defer acceptance. I suggest that you do try my words before you attempt to make it good.”
 
-At this point, the sand was halfway up Yama's
+At this point, the sand was halfway up Yama's thighs.
 
 Sam sighed and climbed down from his perch.
 
-“There is only one clear path to this rock, and I am about to follow it away from here. Now, I will tell you how to gain your life, if you are not too proud. I have instructed the monks to come to my aid, here at this place, if they hear a cry for help. I told you earlier that I was not going to call for help, and that is true. If, however, you begin calling out for aid with that power- M voice of yours, they shall be here before you sink too much farther. They will bring you safely to firm ground and will not try to harm you, for such is their way. I like the thought of the god of death being saved by the monks of Buddha. Good night, Yama, I'm going to leave you now.”
+“There is only one clear path to this rock, and I am about to follow it away from here. Now, I will tell you how to gain your life, if you are not too proud. I have instructed the monks to come to my aid, here at this place, if they hear a cry for help. I told you earlier that I was not going to call for help, and that is true. If, however, you begin calling out for aid with that powerful voice of yours, they shall be here before you sink too much farther. They will bring you safely to firm ground and will not try to harm you, for such is their way. I like the thought of the god of death being saved by the monks of Buddha. Good night, Yama, I'm going to leave you now.”
 
-Yama smiled. “There will be another day, oh Bud-
-
-LORD OF LIGHT 141
-
-dha,” he stated. “I can wait for it. Flee now as far and as fast as you can. The world is not large enough to hide you from my wrath. I will follow you, and I will teach you of the enlightenment that is pure hellEre.”
+Yama smiled. “There will be another day, oh Buddha,” he stated. “I can wait for it. Flee now as far and as fast as you can. The world is not large enough to hide you from my wrath. I will follow you, and I will teach you of the enlightenment that is pure hellfire.”
 
 “In the meantime,” said Sam, “I suggest you solicit aid of my followers or learn the difficult art of mudbreathing.”
 
@@ -2790,39 +2780,27 @@ Yama did not reply.
 
 “I think I am going to make a deal for some weapons,” he finished, “some rather special weapons. So when you come after me, bring your girl friend along. If she likes what she sees, she may persuade you to switch sides.”
 
-Then he struck the trail and moved away through the night, whistling, beneath a moon that was white and
+Then he struck the trail and moved away through the night, whistling, beneath a moon that was white and a moon that was golden.
 
-a moon that was golden.
+IV
+--
 
-It is told how the Lord oJ L,ight descended into the Well oJ the Demons, io make there a bargain with the chief of the Rakasha. He dealt in good Jaith, but the
+**It is told how the Lord of Light descended into the Well of the Demons, to make there a bargain with the chief of the Rakasha. He dealt in good Faith, but the Rakasha are the Rakashas. That is to say, they are malefic creatures, possessed of great powers, life-span and the ability to assume nearly any shape. The Rakasha are almost indestructible. Their chiefest lack is a true body; their chiefest virtue, their honor toward their gambling debts. That the Lord of light went to Hellwell at all serves to show that perhaps he was somewhat distraught concerning the state of the world....**
 
-Rakasha are the Rakes. re is to say, they are
+*When the gods and the demons, both offspring of Prajapati, did battle with one another, the gods seized upon the life-principle of the Udgitha, thinking that with this would they vanquish the demons.*
 
-malefic creatures, possessed of great powers, life-span and the abilit y to assume nearly any shape. The Rakasha are almost indestructible. Their chiefest lack is a true bod y; their chiefest viriue, their honor toward their gambling debts. That the Lord oJ light went to tellwell at all sewes to show that perhaps he was somewhat distraught concerning the state oJ the world....
+*They meditated upon the Udgitha which functions through the nose, but the demons pierced it through with evil. Therefore, with the breath one smells both that which is pleasant and that which is foul. Thus the breath is touched by evil. They meditated upon the Udgitha as words, but the demons pierced it through with evil. Therefore, one speaks both truth and falsehood. Thus words are touched by evil.*
 
-When the gods and the demons, both offspring of Prajapati, did battle with one another, the gods seized upon the life-principle of the Udgitha, thinking that with this would they vanquish the demons.
+*They meditated upon the Udgitha which functions through the eye, but the demons pierced it through with evil. Therefore, one sees both what is pleasing and what is ugly. Thus the eye is touched by evil.*
 
-They meditated upon the Udgitha which functions through the nose, but the demons pierced it through with evil. Therefore, with the breath one smells both that which is pleasant and that which is foul. Thus the breath is touched by evil. They meditated upon the Udgitha as words, but the demons pierced it through with evil. Therefore, one speaks both truth and falsehood.
+*They meditated upon the Udgitha as hearing, but the demons pierced it through with evil. Therefore, one bears both good things and bad. Thus the ear is touched by evil.*
 
-Thus words are touched by evil.
+*Then did they meditate upon the Udgitha as the mind, but the demons pierced it through with evil. Therefore, one thinks what is proper, true, and good, and what is improper, false, and depraved. Thus the mind is touched by evil.*
 
-They meditated upmi the Udgitha which functions through the eye, but the demons pierced it through with evil. Therefore, one sees both what is pleasing and what is ugly. Thus the eye is touched by evil.
+*Chhandogya Upanishad (I, ii, I—6)*
 
-They meditated upon the Udgitha as hearing,
 
-but the demons pierced it through with evil. Therefore, one bears both good things and bad. Thus the ear is touched by evil.
-
-142
-
-LORD OF LIGHT
-
-Then did they meditate upon the Udgitha as the mind, but the demons pierced it through with evil. Therefore, one thinks what is proper, true, and good, and what is improper, false, and depraved. Thus the mind is touched by evil.
-
-Chhandogya If panishad I, ii, I—6)
-
-143
-
-HELLWELr lies at the top Of the world and it leads down to its roots.
+Hellwell lies at the top Of the world and it leads down to its roots.
 
 It is probably as old as the world itself; and if it is not, it should be, because it looks as if it were.
 
@@ -2832,21 +2810,13 @@ It is set near the peak of a very high mountain named Channa, in the midst of a 
 
 Very few feet have ever trod the trail that leads to Hellwell. Of those who visited, triost came only to look, to see whether the great door really existed; and when they returned home and told of having seen it, they were generally mocked.
 
-Telltale scratches about the lock plate testify that some have actually sought entrance. Equipment sufficient to force the great door could not be transported or properly positioned, however. The trail that leads to Hellwell is less than ten inches in width for the final three hundred feet of its ascent; and perhaps six men
-
-144 ROGER ZELAZNY
-
-could stand, with crowding, upon what remains of the once wide ledge that faces that door.
+Telltale scratches about the lock plate testify that some have actually sought entrance. Equipment sufficient to force the great door could not be transported or properly positioned, however. The trail that leads to Hellwell is less than ten inches in width for the final three hundred feet of its ascent; and perhaps six men could stand, with crowding, upon what remains of the once wide ledge that faces that door.
 
 It is told that Pannalal the Sage, having sharpened his mind with meditation and divers asceticisms, had divined the operation of the lock and entered Hellwell, spending a day and a night beneath the mountain. He was thereafter known as Pannalal the Mad.
 
-The peak known as Channa, which holds the great door, is removed by five days' journey from a small village. This is within the far northern kingdom of Malwa. This mountain village nearest to Channa has no name itself, being filled with a fierce and independent people who have no special desire that their town appear on the maps of the rajiih's tax collectors. Of the rajah, it is sufficient to tell that he is of middle height and middle years, shrewd, slightly stout, neither pious nor more than usually notorious and fabulously wealthy. He is wealthy because he levies high taxes upon his subjects. When his subjects begin to complain, and murmurs of revolt run through the realm, he declares war upon a neighboring kingdom and doubles the taxes. M the war does not go well, he executes several generals and has his Minister of Peace negotiate a treaty. If, by some chance, it goes especially well, he exacts tribute for whatever insult has caused the entire a8air. Usually, though, it ends in a truce, souring his subjects on fighting and reconciling them to the high tax rate. His name is Videgha and he has many children. He is fond of grak-birds, which can be taught to sing bawdy songs, of snakes, to which he occasionally feeds grak-birds who cannot carry a tune, and of gaming With dice. He does not especially like children.
+The peak known as Channa, which holds the great door, is removed by five days' journey from a small village. This is within the far northern kingdom of Malwa. This mountain village nearest to Channa has no name itself, being filled with a fierce and independent people who have no special desire that their town appear on the maps of the rajiih's tax collectors. Of the rajah, it is sufficient to tell that he is of middle height and middle years, shrewd, slightly stout, neither pious nor more than usually notorious and fabulously wealthy. He is wealthy because he levies high taxes upon his subjects. When his subjects begin to complain, and murmurs of revolt run through the realm, he declares war upon a neighboring kingdom and doubles the taxes. If the war does not go well, he executes several generals and has his Minister of Peace negotiate a treaty. If, by some chance, it goes especially well, he exacts tribute for whatever insult has caused the entire affair. Usually, though, it ends in a truce, souring his subjects on fighting and reconciling them to the high tax rate. His name is Videgha and he has many children. He is fond of grak-birds, which can be taught to sing bawdy songs, of snakes, to which he occasionally feeds grak-birds who cannot carry a tune, and of gaming With dice. He does not especially like children.
 
-Hellwell begins with the great doorway high in the mountains at the northemmost comer of Videgha's kingdom, beyond which there are no other kingdoms of men. It begins there, and it corkscrews down through the heart of the mountain Channa, breaking, like a corkscrew, into vast cavemways uncharted by men, extending far beneath the Ratnagari range, the deepest
-
-LORD OF LIGHT 14$
-
-passageways pushing down toward the roots of the world.
+Hellwell begins with the great doorway high in the mountains at the northemmost corner of Videgha's kingdom, beyond which there are no other kingdoms of men. It begins there, and it corkscrews down through the heart of the mountain Channa, breaking, like a corkscrew, into vast caveways uncharted by men, extending far beneath the Ratnagari range, the deepest passageways pushing down toward the roots of the world.
 
 To this door came the traveler.
 
@@ -2856,7 +2826,7 @@ He climbed the trail up Channa, edging his way across its gaunt face.
 
 It took him the better part of the morning to reach his destination, the door.
 
-When he stood before it, he rested a moment, took a drink from his water ,i›ottle, wiped his mouth on the back of his hand, smiled.
+When he stood before it, he rested a moment, took a drink from his water bottle, wiped his mouth on the back of his hand, smiled.
 
 Then he sat down with his back against the door and ate his lunch. When he had finished, he threw the leaf wrappings over the edge and watched them fall, drifting from side to side on the air currents, until they were out of sight. He lit his pipe then and smoked.
 
@@ -2874,9 +2844,7 @@ Drawing the door closed again behind him, he paused only to light one of the man
 
 The floor slanted abruptly, and after a hundred paces the ceiling was so high as to be invisible.
 
-146 ROGER ZE LAZNY
-
-After two hundred paces, he stood upon the lip of the weH.
+After two hundred paces, he stood upon the lip of the well.
 
 He was now in the midst of a vast blackness shot through with the flames of his torch. The walls had vanished, save for the one behind him and to the right. The floor ended a short distance before him.
 
@@ -2900,25 +2868,21 @@ But he hurried by, not even glancing at the almostface within the opening.
 
 Floating upon the ocean of black that lay beneath his feet, there were more lights now visible.
 
-The well continued to widen. If was filled with brightening glimmers, like flame, but not flame; filled
-
-LORD OF LIGHT 14?
-
-with shapes, faces, half-remembered images. From each there rose up a cry as he passed: “Free me! Free me!”
+The well continued to widen. If was filled with brightening glimmers, like flame, but not flame; filled with shapes, faces, half-remembered images. From each there rose up a cry as he passed: “Free me! Free me!”
 
 But he did not halt.
 
-He came to the bottom of the well and moved across it, passing among broken stones and over fissures in the rocky 8oor. At last he reached the opposite wall, wherein a great orange fire danced.
+He came to the bottom of the well and moved across it, passing among broken stones and over fissures in the rocky floor. At last he reached the opposite wall, wherein a great orange fire danced.
 
-It became cherry-red as he approached, and when be stood before it, it was the blue of a sapphire's heart.
+It became cherry-red as he approached, and when he stood before it, it was the blue of a sapphire's heart.
 
 It stood to twice his height, pulsing and twisting. From it, little flamelets licked out toward him, but they drew back as if they fell against an invisible barrier.
 
-During his descent he had passed so many 8ames that he had lost count of their number. He knew, too, that more lay hidden within the caverns that open into the well bottom.
+During his descent he had passed so many flames that he had lost count of their number. He knew, too, that more lay hidden within the caverns that open into the well bottom.
 
-Each 8ame he had passed on the way down had addressed him, using its own species of communication, so that the words had sounded drumlike within his head: threatening words, and pleading, promising words. But no message came to him from this great blue blaze, larger than any of the others. No forms turned or twisted, tantalizing, within its bright heart. Flame it was, and 8ame it remained.
+Each flame he had passed on the way down had addressed him, using its own species of communication, so that the words had sounded drumlike within his head: threatening words, and pleading, promising words. But no message came to him from this great blue blaze, larger than any of the others. No forms turned or twisted, tantalizing, within its bright heart. Flame it was, and flame it remained.
 
-He kindled a fresh torch and wedged it bewecn two rocks.
+He kindled a fresh torch and wedged it between two rocks.
 
 “So, Hated One, you have returned!”
 
@@ -2926,13 +2890,11 @@ The words fell upon him like whiplashes. Steadying himself, he faced the blue fl
 
 “You are called Taraka?”
 
-“He who bound me here should know what I am called,” came the words. “Think not, oh Siddhartha, that because you wear a di8erent body you go now unrecognized. I look upon the 8ows of energy which are your real being—not the 8esh that masks them.”
+“He who bound me here should know what I am called,” came the words. “Think not, oh Siddhartha, that because you wear a different body you go now unrecognized. I look upon the flows of energy which are your real being—not the flesh that masks them.”
 
 “I see,” replied the other.
 
 “Oo you come to mock me in my prison?” “Did I mock you in the days of the Binding?” “No, you did not.”
-
-1 48 ROGER ZE LAZNY
 
 “I did that which had to be done, to preserve my own species. Men were weak and few in number. Your kind fell upon them and would have destroyed them.”
 
@@ -2940,9 +2902,13 @@ The words fell upon him like whiplashes. Steadying himself, he faced the blue fl
 
 “Perhaps there is a way in which some reparation may be made.”
 
-“What is it that you want?” “Allies.”
+“What is it that you want?” 
 
-“You want us to take your part in a struggle?” “That is correct.”
+“Allies.”
+
+“You want us to take your part in a struggle?” 
+
+“That is correct.”
 
 “And when it is over, you will seek to bind us again.”
 
@@ -2954,61 +2920,65 @@ The words fell upon him like whiplashes. Steadying himself, he faced the blue fl
 
 “That is true.”
 
-“It is better fortified now.” “In what ways?”
+“It is better fortified now.” 
+
+“In what ways?”
 
 “Vishnu the Preserver and Yama-Dharma, Lord of Death, have covered the whole of Heaven, rather than just the City—as it was in days of old—with what is said to be an impenetrable dome.”
 
-“There is no such thing as an impenetrable dome.” “I say only what I have heard.”
+“There is no such thing as an impenetrable dome.” 
+
+“I say only what I have heard.”
 
 “There are many ways into a city, Lord Siddhartha.”
 
 “You will find them all for me?”
 
-“That is to be the price of my freedom?” “Of your own freedom—yes.”
+“That is to be the price of my freedom?” 
+
+“Of your own freedom—yes.”
 
 “What of the others of my kind?”
 
 “If they, too, are to be freed, you must all agree to help me lay siege to that City and take it.”
 
-“Free us, and Heaven shall fall!” “You speak for the others?”
+“Free us, and Heaven shall fall!” 
+
+“You speak for the others?”
 
 “I am Taraka. I speak for all.”
-
-LORD OF LIGHT 149
 
 “What assurance do you give, Taraka, that this bargain will be kept?”
 
 “My word? I shall be happy to swear by anything you care to name-”
 
-“A facility with oaths is not the most reassuring quality in a bargained. And your strength is also your weakness in any bargaining at all. You are so strong as to be unable to grant to another the power to control you. You have no gods to swear by. The only thing you will honor is a gambling debt, and there are no grounds for gaming here.”
+“A facility with oaths is not the most reassuring quality in a bargainer. And your strength is also your weakness in any bargaining at all. You are so strong as to be unable to grant to another the power to control you. You have no gods to swear by. The only thing you will honor is a gambling debt, and there are no grounds for gaming here.”
 
-“You possess the power to control us.” “Individually, perhaps. But not collectively.”
+“You possess the power to control us.” 
 
-“It is a difficult problem,” said Taraka. “I should give anything I have to be free—but then, all that I have is power—pure power, in essence uncommittable. A greater force might subdue it, but that is not the answer. I do not really know how to give you satisfactory assurance that my promise will be kept. If I were you, f certainly would not trust irie.”
+“Individually, perhaps. But not collectively.”
+
+“It is a difficult problem,” said Taraka. “I should give anything I have to be free—but then, all that I have is power—pure power, in essence uncommittable. A greater force might subdue it, but that is not the answer. I do not really know how to give you satisfactory assurance that my promise will be kept. If I were you, I certainly would not trust me.”
 
 “It is something of a dilemma. So I will free you now—you alone—to visit the Pole and scout out the defenses of Heaven. In your absence, I will consider the problem further. Do you likewise, and perhaps upon your return an equitable arrangement can be made.”
 
 “Accepted! Release me from this doom!”
 
-“Know then my power, Taraka,” he said. “As I bind, so can I loos thus!”
+“Know then my power, Taraka,” he said. “As I bind, so can I loose thus!”
 
-The 8ame boiled forward out of the wall.
+The flame boiled forward out of the wall.
 
-It rolled into a ball of fire and spun about the well like a comet; it burned like a small sun, lighting up the darkness; it changed colors as it 8ed about, so that the rocks shone both ghastly and pleasing.
+It rolled into a ball of fire and spun about the well like a comet; it burned like a small sun, lighting up the darkness; it changed colors as it fled about, so that the rocks shone both ghastly and pleasing.
 
 Then it hovered above the head of the one called Siddhartha, sending down its throbbing words upon him:
 
-“You cannot know my pleasure to feel again tny
-
-### 150	ROGER ZELAZNY
-
-strength set free. I've a mind to try your power once more.”
+“You cannot know my pleasure to feel again my strength set free. I've a mind to try your power once more.”
 
 The man beneath him shrugged.
 
 The ball of flame coalesced. Shrinking, it grew brighter, and it slowly settled to the floor.
 
-It lay there quivering, like a petal fallen from some titanic bloom; then it drifted slowly across the 8oor of Hellwell and re-entered the niche.
+It lay there quivering, like a petal fallen from some titanic bloom; then it drifted slowly across the floor of Hellwell and re-entered the niche.
 
 “Are you satisfied?” asked Siddhartha.
 
