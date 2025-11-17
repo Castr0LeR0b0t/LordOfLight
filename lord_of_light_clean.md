@@ -2894,7 +2894,8 @@ The words fell upon him like whiplashes. Steadying himself, he faced the blue fl
 
 “I see,” replied the other.
 
-“Oo you come to mock me in my prison?” “Did I mock you in the days of the Binding?” “No, you did not.”
+“Oo you come to mock me in my prison?” “Did I mock you in the days of the Binding?” 
+“No, you did not.”
 
 “I did that which had to be done, to preserve my own species. Men were weak and few in number. Your kind fell upon them and would have destroyed them.”
 
@@ -2988,7 +2989,7 @@ It lay there quivering, like a petal fallen from some titanic bloom; then it dri
 
 “No! I gave you my promise! What more would you have?”
 
-“I would have an absence of contention between us. Either you will serve me now in this matter, or you will not. That js all. Choose, and abide by your choice— and your word.”
+“I would have an absence of contention between us. Either you will serve me now in this matter, or you will not. That is all. Choose, and abide by your choice— and your word.”
 
 “Very well. Free me, and I will visit Heaven upon its mountain of ice, and report back to you of its weaknesses.”
 
@@ -3002,21 +3003,15 @@ This time, the flame emerged more slowly. It swayed before him, took on a roughl
 
 Taraka vanished, like a firebrand plunged into a river, and Siddhartha stood among stones, his torch lighting the darkness about him.
 
-He rested, and a babble of voices filled his mind— promising, tempting, pleading. Visions of wealth and of splendor Bowed before his eyes. Wondrous harems were
-
-LORD OF LIGHT 151
-
-paraded before him, and banquets were laid at his feet. Essences of musk and champac, and the bluish haze of burning incenses drifted, soothing his soul, about him. He walked among flowers, followed by bright-eyed girls who bore his wine cups, smiling; a silver voice sang to him, and creatures not human danced upon the surface of a nearby lake.
+He rested, and a babble of voices filled his mind— promising, tempting, pleading. Visions of wealth and of splendor Bowed before his eyes. Wondrous harems were paraded before him, and banquets were laid at his feet. Essences of musk and champac, and the bluish haze of burning incenses drifted, soothing his soul, about him. He walked among flowers, followed by bright-eyed girls who bore his wine cups, smiling; a silver voice sang to him, and creatures not human danced upon the surface of a nearby lake.
 
 “Free us, free us,” they chanted.
 
-But he smiled and watched and did nothing. Gradually, the prayers and the pleas and the prom-
-
-ises turned to a chorus of curses and threats. Armored skeletons advanced upon him, babies impaled upon their blazing swords. There were pits all about him, from which fires leapt up, smelling of brimstone. A serpent dangled frown a branch before his face, spitting venom. A rain of spiders and toads descended upon him.
+But he smiled and watched and did nothing. Gradually, the prayers and the pleas and the promises turned to a chorus of curses and threats. Armored skeletons advanced upon him, babies impaled upon their blazing swords. There were pits all about him, from which fires leapt up, smelling of brimstone. A serpent dangled from a branch before his face, spitting venom. A rain of spiders and toads descended upon him.
 
 “Free us—or infinite will be thy agony!” cried the voices.
 
-“If you penist,” he stated, “Siddhartha shall grow angry, and you will lose the one chance at freedom which you really do possess.”
+“If you persist,” he stated, “Siddhartha shall grow angry, and you will lose the one chance at freedom which you really do possess.”
 
 Then all was still about him, and he emptied his mind, drowsing.
 
@@ -3026,17 +3021,13 @@ Later, Taraka returned in the form of a great-taloned bird and reported to him:
 
 “Those of my kind may enter through the air vents,” he said, “but men may not. There are also many elevator shafts within the mountain. Many men might ride up the larger ones with ease. Of course, these are guarded. But if the guards were slain and the alarms disconnected, this thing might be accomplished. Also, there are times when the dome itself is opened in various places, to permit Bying craft to enter and to depart.”
 
-“Very well,” said Siddhartha. “I've a kingdom, some weeks' journey hence, where I rule. A regent has been
-
-152 ROGER ZE LAZHY
-
-seated in my place for many years, but if I return there I can raise me an army. A new religion moves now across the land. Men may now think less of the gods than once they did.”
+“Very well,” said Siddhartha. “I've a kingdom, some weeks' journey hence, where I rule. A regent has been seated in my place for many years, but if I return there I can raise me an army. A new religion moves now across the land. Men may now think less of the gods than once they did.”
 
 “You wish to sack Heaven?”
 
-“Yes, I wish to lay open its treasures to the world.” “This is to my liking. It will not be easily won, but
+“Yes, I wish to lay open its treasures to the world.” 
 
-with an army of men and an army of my kind we should be able to do it. Let us free my people now, that we may begin.”
+“This is to my liking. It will not be easily won, but with an army of men and an army of my kind we should be able to do it. Let us free my people now, that we may begin.”
 
 “I believe I will simply have to trust you,” said Siddhartha. “So yes, let us begin,” and he moved across the floor of Hellwell toward the first deep tunnel heading downward.
 
@@ -3058,11 +3049,7 @@ Siddhartha directed his attention toward the largest point of light, Taraka.
 
 Taraka approached, hovered before him. “It was not by my bidding that he attacked,” he stated. “I feel that he was half crazed from his confinement.”
 
-Siddhartha shrugged. “For a time now, disport your-
-
-LORD OP LIGHT 153
-
-selves as you would,” he said. “I would have rest from this task,” and he departed the smaller cavern.
+Siddhartha shrugged. “For a time now, disport yourselves as you would,” he said. “I would have rest from this task,” and he departed the smaller cavern.
 
 He returned to the bottom of the well, where he lay down upon his blanket and dozed.
 
@@ -3070,55 +3057,13 @@ There came a dream.
 
 He was running.
 
-His shadow lay before him, and, as he ran upon it, it
+His shadow lay before him, and, as he ran upon it, it grew. It grew until it was no longer his shadow but a grotesque outline. Suddenly he knew that his shadow had been overrun by that of his pursuer: overrun, overwhelmed, submerged and surmounted. Then he knew a moment of terrible panic, there upon the blind plain over which he fled. He knew that it was now his own shadow. The doom which had pursued him no longer lay at his back. He knew that he was his own doom. Knowing that he had finally caught up with himself, he laughed aloud, wanting really to scream.
 
-grew.
-
-It grew until it was no longer his shadow but a grotesque outline.
-
-Suddenly he knew that his shadow had been overrun by that of his pursuer: overrun, overwhelmed, submerged and surmounted.
-
-Then he knew a moment of terrible panic, there upon the blind plain over which he 8ed.
-
-He knew that it was now his own shadow.
-
-The doom which had pursued him no longer lay at his back.
-
-He knew that he was his own doom.
-
-Knowing that he had finally caught up with himself, he laughed aloud, wanting really to scream.
-
-When he awoke again, he was walking.
-
-He was walking up the twisted wall-trail of Hellwell. As he walked, he passed the imprisoned Barnes.
-
-Again, each cried out to him as he went by: “Free us, masters!”
-
-And slowly, about the edges of the ice that was his mind, there was a thawing.
+When he awoke again, he was walking. He was walking up the twisted wall-trail of Hellwell. As he walked, he passed the imprisoned Barnes. Again, each cried out to him as he went by: “Free us, masters!” And slowly, about the edges of the ice that was his mind, there was a thawing.
 
 Masters.
 
-Plural. Not singular. Masters, they had said.
-
-He knew then tbat he did not walk alone.
-
-None of the dancing, flickering shapes moved through the darkness about him, below him.
-
-The ones who had been imprisoned were still imprisoned. The ones he had freed were gone.
-
-154 ROGER ZELAZNY
-
-Now he climbed the high wall of Hellwell, no torch lighting his way. But still, he saw.
-
-He saw every feature of the rocky trail, as though by moonlight.
-
-He knew that his eyes were incapable of this feat. And he had been addressed in the plural.
-
-And his body was moving, but was not under the direction of his will.
-
-He made an eBort to halt, to stand still.
-
-He continued to advance up the trail, and it was then that his lips moved, forming the words:
+Plural. Not singular. Masters, they had said. He knew then that he did not walk alone. None of the dancing, flickering shapes moved through the darkness about him, below him. The ones who had been imprisoned were still imprisoned. The ones he had freed were gone. Now he climbed the high wall of Hellwell, no torch lighting his way. But still, he saw. He saw every feature of the rocky trail, as though by moonlight. He knew that his eyes were incapable of this feat. And he had been addressed in the plural. And his body was moving, but was not under the direction of his will. He made an effort to halt, to stand still. He continued to advance up the trail, and it was then that his lips moved, forming the words:
 
 “You have awakened, I see. Good morning.”
 
@@ -3134,17 +3079,15 @@ Siddhartha formed another thought:
 
 “And of the others? Where are they?”
 
-“Gone. To wander the world until I summon them.” “And what of these others who remain bound? Had
+“Gone. To wander the world until I summon them.” 
 
-you waited, I would have freed them also.”
+“And what of these others who remain bound? Had you waited, I would have freed them also.”
 
 “What care I of these others? I am free now, and in a body again! What else matters?”
 
 “I take it, then, that your promised assistance means nothing?”
 
-“Not so,” replied the demon. “We shall return to this matter in, say, a lesser moon or so. The idea does appeal to me. I feel that a war with the gods would be a very excellent thing. But first I wish to enjoy the pleasures of the 8esh for a time. Why should you begrudge me a little entertainment after the centuries of boredom and imprisonment you have wrought?”
-
-LORD OF LIGHT 155
+“Not so,” replied the demon. “We shall return to this matter in, say, a lesser moon or so. The idea does appeal to me. I feel that a war with the gods would be a very excellent thing. But first I wish to enjoy the pleasures of the flesh for a time. Why should you begrudge me a little entertainment after the centuries of boredom and imprisonment you have wrought?”
 
 “I must admit, however, that I do begrudge you this use of my person.”
 
