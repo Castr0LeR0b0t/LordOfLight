@@ -1,56 +1,88 @@
-PRAISE FOR A MAJOR NEW NOVEL
+![](Images/cover.jpg)
 
-“A banished god, Siddhartha, Binder of Demons, and then (as a deliberate move against his former colleagues and in imitation of Earthly history) a reviver of Buddhism with himself aa the Bodhiaattva, seta out to fight the heavenly Establishment ... None of the above gives more than a slight idea of the brilliance of LORD OF LIG£tT, of the manner in which the mimicked Hindu culture is both splendidly described and splendidly explained in the purest ecience•fiction terms. The two worlds never connect, they are always as one, and that ia a triumph.”
+[]{#cubierta.xhtml}
 
-Magazine of Fantasy and Science Fiction
+# ![](Images/cover.jpg) {.cubierta title="Cubierta"}
 
-AVON
+[]{#sinopsis.xhtml}
 
-PUBLISHERS OF
+ 
 
-OISCUS • CAMELOT • BARD
+::: sinopsis
+On a colony planet, men have established a society based on technological means of imitating the Hindu religion. It is possible to reincarnate the "mind" or "soul" to a new body, even an animal. But some of the earliest colonists have additional powers, which give them the status of gods. And a faction among them is using that means in political ways: punishing their enemies with reincarnation as animals, or with the "true death."
+:::
 
-All oJ the characters in this book are fictitious, and any resemblante to actual persons living or dead is purely coincidental.
+[]{#titulo.xhtml}
 
-AVON BOOKS
+![](Images/EPL_logo.png){width="100%"}
 
-A division of
+`Roger Zelazny`{.sans}
 
-The Hearst Corporation 9J9 Eighth Avenue
+# **Lord of Light** {.ttitulo}
 
-New York, New York 10019
+**SF Masterworks 7**
 
-Copyright © 196? by Roger Zelazny. Copyright © 196? by Mercury Press, ltic. Published by arrangement with Doubleday & Company, Inc.
+**ePub r1.0**
 
-Library of Congress Catalog Card Number 6?-19099
+**AlNoah** `25.08.13`{.tfecha .sans}
 
-All rights reserved, which includes the right io reproduce this book or portions thereof in any form whatsoever. For information address Doubleday & Company, Inc., 2?? Park Avenue, New York, New York 1001?
+[]{#info.xhtml}
 
-First Printing, January, 1969 Third Printing, September, 1969
+::: info
+Original title: *Lord of Light*
 
-Printed in the U.S.A
+Roger Zelazny, 1967
 
-To Dannie Plachla,
+Cover illustrator: Fred Gambino
 
-of friendship, wisdom, soma.
+Cover retouch: AlNoah
 
-I
----
-**It is said that fifty-three years after his liberation he returned from the Golden Cloud, to take up once again the gauntlet of Heaven, to oppose the Order of Life and the gods who ordained it so. His followers had prayed for his return, though their prayers were sin. Prayer should not trouble one who has gone on to Nirvana, no matter what the circumstances of his going. The wearers of the saffron robe prayed, however, that He of the Sword, Manjusri, should come again among them, The Boddhisatva is said to have heard...**
+Digital editor: AlNoah
 
-<div style="max-width: 300px; margin: 0 auto; font-style: italic;">
+ePub base r1.0
+:::
+
+![](Images/ex_libris.png)
+
+[]{#cover.xhtml}
+
+::: sfmasterlogo
+![](Images/sfmaster.png)
+:::
+
+# LORD OF LIGHT {.booktitle .sigil_not_in_toc}
+
+# Roger Zelazny {.author .sigil_not_in_toc}
+
+[]{#Section0001.xhtml}
+
+::: salto25
+![](Images/fig.png)
+:::
+
+# ONE {.titulocap title="One"}
+
+:::: cita
+It is said that fifty-three years after his liberation he returned from the Golden Cloud, to take up once again the gauntlet of Heaven, to oppose the Order of Life and the gods who ordained it so. His followers had prayed for his return, though their prayers were sin. Prayer should not trouble one who has gone on to Nirvana, no matter what the circumstances of his going. The wearers of the saffron robe prayed, however, that He of the Sword, Manjusri, should come again among them, The Boddhisatva is said to have heard...
+
+::: poema
 He whose desires have been throttled,
+
 who is independent of root,
-whose pasture is emptiness,
-signless and free,
+
+whose pasture is emptiness---
+
+signless and free---
+
 his path is as unknowable
+
 as that of birds across the heavens.
 
 *Dhammapada* (93)
+:::
+::::
 
-</div>
-
-His followers called him Mahasamatman and said he was a god. He preferred to drop the Maha- and the -atman, however, and called himself Sam. He never claimed to be a god. But then, he never claimed not to be a god. Circumstances being what they were, neither admission could be of any benefit. Silence, though, could.
+[H]{.capital}is followers called him Mahasamatman and said he was a god. He preferred to drop the Maha- and the -atman, however, and called himself Sam. He never claimed to be a god. But then, he never claimed not to be a god. Circumstances being what they were, neither admission could be of any benefit. Silence, though, could.
 
 Therefore, there was mystery about him.
 
@@ -978,19 +1010,27 @@ A shooting star burnt its way across the heavens. The ship moved on. The night s
 
 Sam stared ahead, remembering.
 
-II
----
+[]{#Section0002.xhtml}
 
-**One time a minor rajah from a minor principality came with his retinue into Mahartha, the city that is called Gateway of the South and Capital of the Dawn, there to purchase him a new body. This was in the days when the thread of destiny might yet be plucked from out a gutter, the gods were less formal, the demons still bound, and the Celestial City yet occasionally open to men. This is the story of how the prince did bait the one-armed receiver of devotions before the Temple, incurring the disfavor of Heaven for his presumption...**
+::: salto25
+![](Images/fig.png)
+:::
 
-<div style="max-width: 295px; margin: 0 auto; font-style: italic;">
-Few are the beings born again among men;
-more numerous are those born again elsewhere.
+# TWO {.titulocap title="Two"}
+
+:::: cita
+One time a minor rajah from a minor principality came with his retinue into Mahartha, the city that is called Gateway of the South and Capital of the Dawn, there to purchase him a new body. This was in the days when the thread of destiny might yet be plucked from out a gutter, the gods were less formal, the demons still bound, and the Celestial City yet occasionally open to men. This is the story of how the prince did bait the one-armed receiver of devotions before the Temple, incurring the disfavor of Heaven for his presumption...
+
+::: poema
+Few are the beings born again among men; more
+
+numerous are those born again elsewhere.
 
 *Anguttara-nikaya* (I, 35)
-</div>
+:::
+::::
 
-Riding into the capital of dawn at mid-afternoon, the prince, mounted upon a white mare, passed up the broad avenue of Surya, his hundred retainers massed at his back, his adviser Strake at his left hand, his scimitar in his sash, and a portion of his wealth in the bags his pack horses bore.
+[R]{.capital}iding into the capital of dawn at mid-afternoon, the prince, mounted upon a white mare, passed up the broad avenue of Surya, his hundred retainers massed at his back, his adviser Strake at his left hand, his scimitar in his sash, and a portion of his wealth in the bags his pack horses bore.
 
 The heat crashed down upon the turbans of the men, washed past them, came up again from the roadway.
 
@@ -1908,21 +1948,31 @@ The lancer chief approached. The prince nodded him. Orders were shouted.
 
 The columns of mounted men moved forward, passed out through the gates of the Palace of Karma, turned off the roadway and headed up the slope that lay to the southeast of the city of Mahartha, comrades blazing like the dawn at their back.
 
-III
---
+[]{#Section0003.xhtml}
 
-**It is said that, when the Teacher appeared, those of all castes went to hear his teachings, as well as animals, gods and an occasional saint, to come away improved and uplifted. It was generally conceded that he had received enlightenment, except by those who believed him to be a fraud, sinner, criminal or practical joker. These latter ones were not all to be numbered as his enemies; but, on the other hand, not all of those improved and uplifted could be counted as his friends and supporters. His followers called him Mahasamatman and some said he was a god. So, after it was seen that he had been accepted as a teacher, was looked upon with respect, had many of the wealthy numbered as his supporters and had gained a reputation reaching far across the land, he was referred to as Tathagatha, meaning He Who Has Achieved. It must be noted that while the goddess Kali (sometimes known as Durga in her softer moments) never voiced a formal opinion as to his buddhahood, she did render him the singular honor of dispatching her holy executioner to pay him her tribute, rather than a mere hired assassin...**
+::: salto25
+![](Images/fig.png)
+:::
 
-<div style="max-width: 300px; margin: 0 auto; font-style: italic;">
+# THREE {.titulocap title="Three"}
+
+:::: cita
+It is said that, when the Teacher appeared, those of all castes went to hear his teachings, as well as animals, gods and an occasional saint, to come away improved and uplifted. It was generally conceded that he had received enlightenment, except by those who believed him to be a fraud, sinner, criminal or practical joker. These latter ones were not all to be numbered as his enemies; but, on the other hand, not all of those improved and uplifted could be counted as his friends and supporters. His followers called him Mahasamatman and some said he was a god. So, after it was seen that he had been accepted as a teacher, was looked upon with respect, had many of the wealthy numbered as his supporters and had gained a reputation reaching far across the land, he was referred to as Tathagatha, meaning He Who Has Achieved. It must be noted that while the goddess Kali (sometimes known as Durga in her softer moments) never voiced a formal opinion as to his buddhahood, she did render him the singular honor of dispatching her holy executioner to pay him her tribute, rather than a mere hired assassin...
+
+::: poema
 There is no disappearing of the true Dhamma
+
 until a false Dhamma arises in the world.
+
 When the false Dhamma arises, he makes the
+
 true Dhamma to disappear.
 
 *Samyutta-nikaya* (II, 224)
-</div>
+:::
+::::
 
-Near the city of Alundil there was a rich grove of blue-barked trees, having purple foliage like feathers. It was famous for its beauty and the shrinelike peace of its shade. It had been the property of the merchant Vasu until his conversion, at which time he had presented it to the teacher variously known as Mahasamatman, Tathagatha and the Enlightened One. In that wood did this teacher abide with his followers, and when they walked forth into the town at midday their begging bowls never went unfilled.
+[N]{.capital}ear the city of Alundil there was a rich grove of blue-barked trees, having purple foliage like feathers. It was famous for its beauty and the shrinelike peace of its shade. It had been the property of the merchant Vasu until his conversion, at which time he had presented it to the teacher variously known as Mahasamatman, Tathagatha and the Enlightened One. In that wood did this teacher abide with his followers, and when they walked forth into the town at midday their begging bowls never went unfilled.
 
 There was always a large number of pilgrims about the grove. The believers, the curious and those who preyed upon the others were constantly passing through it. They came by horseback, they came by boat, they came on foot.
 
@@ -2888,20 +2938,35 @@ Yama did not reply.
 
 Then he struck the trail and moved away through the night, whistling, beneath a moon that was white and a moon that was golden.
 
+[]{#Section0004.xhtml}
 
+::: salto25
+![](Images/fig.png)
+:::
 
-IV
---
+# FOUR {.titulocap title="Four"}
 
-**It is told how the Lord of Light descended into the Well of the Demons, to make there a bargain with the chief of the Rakasha. He dealt in good faith, but the Rakasha are the Rakasha. That is to say, they are malefic creatures, possessed of great powers, life-span and the ability to assume nearly any shape. The Rakasha are almost indestructible. Their chiefest lack is a true body; their chiefest virtue, their honor toward their gambling debts. That the Lord of Light went to Hellwell at all serves to show that perhaps he was somewhat distraught concerning the state of the world...**
+:::: cita
+It is told how the Lord of Light descended into the Well of the Demons, to make there a bargain with the chief of the Rakasha. He dealt in good faith, but the Rakasha are the Rakasha. That is to say, they are malefic creatures, possessed of great powers, life-span and the ability to assume nearly any shape. The Rakasha are almost indestructible. Their chiefest lack is a true body; their chiefest virtue, their honor toward their gambling debts. That the Lord of Light went to Hellwell at all serves to show that perhaps he was somewhat distraught concerning the state of the world...
 
-<div style="max-width: 300px; margin: 0 auto; font-style: italic;">
-When the gods and the demons, both offspring of Prajapati, did battle with one another, the gods seized upon the life-principle of the Udgitha, thinking that with this would they vanquish the demons. They meditated upon the Udgitha which functions through the nose, but the demons pierced it through with evil. Therefore, with the breath one smells both that which is pleasant and that which is foul. Thus the breath is touched by evil. They meditated upon the Udgitha as words, but the demons pierced it through with evil. Therefore, one speaks both truth and falsehood. Thus words are touched by evil. They meditated upon the Udgitha which functions through the eye, but the demons pierced it through with evil. Therefore, one sees both what is pleasing and what is ugly. Thus the eye is touched by evil. They meditated upon the Udgitha as hearing, but the demons pierced it through with evil. Therefore, one hears both good things and bad. Thus the ear is touched by evil. Then did they meditate upon the Udgitha as the mind, but the demons pierced it through with evil. Therefore, one thinks what is proper, true, and good, and what is improper, false, and depraved. Thus the mind is touched by evil.
+::: poema
+When the gods and the demons, both offspring of Prajapati, did battle with one another, the gods seized upon the life-principle of the Udgitha, thinking that with this would they vanquish the demons.
 
-Chhandogya Upanishad (I, ii, 1-6)
-</div>
+They meditated upon the Udgitha which functions through the nose, but the demons pierced it through with evil. Therefore, with the breath one smells both that which is pleasant and that which is foul. Thus the breath is touched by evil.
 
-Hellwell lies at the top of the world and it leads down to its roots.
+They meditated upon the Udgitha as words, but the demons pierced it through with evil. Therefore, one speaks both truth and falsehood. Thus words are touched by evil.
+
+They meditated upon the Udgitha which functions through the eye, but the demons pierced it through with evil. Therefore, one sees both what is pleasing and what is ugly. Thus the eye is touched by evil.
+
+They meditated upon the Udgitha as hearing, but the demons pierced it through with evil. Therefore, one hears both good things and bad. Thus the ear is touched by evil.
+
+Then did they meditate upon the Udgitha as the mind, but the demons pierced it through with evil. Therefore, one thinks what is proper, true, and good, and what is improper, false, and depraved. Thus the mind is touched by evil.
+
+*Chhandogya Upanishad* (I, ii, 1-6)
+:::
+::::
+
+[H]{.capital}ellwell lies at the top of the world and it leads down to its roots.
 
 It is probably as old as the world itself; and if it is not, it should be, because it looks as if it were.
 
@@ -5033,25 +5098,37 @@ On the last night of the revels, a lone god entered the Pavilion of Silence at W
 
 These things considered, it was thorough as well as impressive, the time of Love and Death, of Hate and Life, and of Folly.
 
-VI
----
+[]{#Section0006.xhtml}
 
-**During the time that followed the death of Brahma, there came upon the Celestial City a period of turmoil. Several among the gods were even expelled from Heaven. It was a time when just about everyone feared being considered an Accelerationist; and, as fate would have it, at some point or other during this period, just about everyone was considered an Accelerationist. Though Great-Souled Sam was dead, his spirit was said to live on, mocking. Then, in the days of disaffection and intrigue that led up to the Great Battle, it was rumored that more than his spirit might have lived on...**
+::: salto25
+![](Images/fig.png)
+:::
 
-<div style="max-width: 300px; margin: 0 auto; font-style: italic;">
+# SIX {.titulocap title="Six"}
+
+:::: cita
+During the time that followed the death of Brahma, there came upon the Celestial City a period of turmoil. Several among the gods were even expelled from Heaven. It was a time when just about everyone feared being considered an Accelerationist; and, as fate would have it, at some point or other during this period, just about everyone was considered an Accelerationist. Though Great-Souled Sam was dead, his spirit was said to live on, mocking. Then, in the days of disaffection and intrigue that led up to the Great Battle, it was rumored that more than his spirit might have lived on...
+
+::: poema
 When the sun of suffering has set,
+
 there comes this peace,
+
 Lord of the quiet stars,
+
 this peace of creation,
+
 this place the mandala spins gray.
+
 The fool saith in his mind
-that his thoughts are only thoughts...
+
+that his thoughts are only thoughts ...
 
 *Saraha* (98-99)
+:::
+::::
 
-</div>
-
-It was early morning. Near the pool of the purple lotus, in the Garden of Joys, at the foot of the statue of the blue goddess with the *veena*, Brahma was located.
+[I]{.capital}t was early morning. Near the pool of the purple lotus, in the Garden of Joys, at the foot of the statue of the blue goddess with the *veena*, Brahma was located.
 
 The girl who found him first thought him to be resting, for his eyes were still open. After a moment, though, she realized that he was not breathing; and his face, so contorted, underwent no changes of expression.
 
@@ -6637,24 +6714,37 @@ And elsewhere in the world there were those who remembered bifocal glasses and t
 
 Vishnu was heard to say that the wilderness had come into the City at last.
 
-VII
----
+[]{#Section0007.xhtml}
 
-**Another name by which he is sometimes called is Maitreya, meaning Lord of Light. After his return from the Golden Cloud, he journeyed to the Palace of Kama at Khaipur, where he planned and built his strength against the Day of the Yuga. A sage once said that one never sees the Day of the Yuga, but only knows it when it is past. For it dawns like any other day and passes in the same wise, recapitulating the history of the world.\
-He is sometimes called Maitreya, meaning Lord of Light...**
+::: salto25
+![](Images/fig.png)
+:::
 
-<div style="max-width: 300px; margin: 0 auto; font-style: italic;">
+# SEVEN {.titulocap title="Seven"}
+
+:::: cita
+Another name by which he is sometimes called is Maitreya, meaning Lord of Light. After his return from the Golden Cloud, he journeyed to the Palace of Kama at Khaipur, where he planned and built his strength against the Day of the Yuga. A sage once said that one never sees the Day of the Yuga, but only knows it when it is past. For it dawns like any other day and passes in the same wise, recapitulating the history of the world.
+
+He is sometimes called Maitreya, meaning Lord of Light...
+
+::: poema
 The world is a fire of sacrifice, the sun its fuel, sunbeams its smoke, the day its flames, the points of the compass its cinders and sparks. In this fire the gods offer faith as libation. Out of this offering King Moon is born.
+
 Rain, oh Gautama, is the fire, the year its fuel, the clouds its smoke, the lightning its flame, cinders, sparks. In this fire the gods offer King Moon as libation. Out of this offering the rain is born.
+
 The world, oh Gautama, is the fire, the earth its fuel, fire its smoke, the night its flame, the moon its cinders, the stars its sparks. In this fire the gods offer rain as libation. Out of this offering food is produced.
+
 Man, oh Gautama, is the fire, his open mouth its fuel, his breath its smoke, his speech its flame, his eye its cinders, his ear its sparks. In this fire the gods offer food as libation. Out of this offering the power of generation is born.
+
 Woman, oh Gautama, is the fire, her form its fuel, her hair its smoke, her organs its flame, her pleasures its cinders and its sparks. In this flame the gods offer the power of generation as libation. Out of this offering a man is born. He lives for so long as he is to live.
+
 When a man dies, he is carried to be offered in the fire. The fire becomes his fire, the fuel his fuel, the smoke his smoke, the flame his flame, the cinders his cinders, the sparks his sparks. In this fire the gods offer the man as libation. Out of this offering the man emerges in radiant splendor.
 
 *Brihadaranyaka Upanishad* (VI, ii, 9-14)
-</div>
+:::
+::::
 
-In a high, blue palace of slender spires and filigreed gates, where the tang of salt sea spray and the crying of sea-wights came across the bright air to season the senses with life and delight. Lord Nirriti the Black spoke with the man who had been brought to him.
+[I]{.capital}n a high, blue palace of slender spires and filigreed gates, where the tang of salt sea spray and the crying of sea-wights came across the bright air to season the senses with life and delight. Lord Nirriti the Black spoke with the man who had been brought to him.
 
 "Sea captain, what is your name?" he asked.
 
