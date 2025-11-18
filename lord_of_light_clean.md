@@ -3527,7 +3527,7 @@ The Rakasha assembled then about the cavern, standing in great phalanxes of flam
 
 Sam listened to the vibrations within his skull, catching something of the meaning behind the hiss and the blaze, the feelings that accompanied it falling into words and stresses that were more familiar to his own mind:
 
-::: poema2
+
 We are the legions of Hellwell, damned,
 
 The banished ones of fallen flame.
@@ -3559,7 +3559,6 @@ When fail the gods, when fail the men.
 The legions of the damned die not.
 
 We wait, we wait, to rise again!
-:::
 
 Sam shuddered as they sang on and on, recounting their vanished glories, confident of their ability to outlast any circumstance, to meet any force with the cosmic judo of a push and a tug and a long wait, watching anything of which they disapproved turn its strength upon itself and pass. Almost, in that moment, he believed that what they sang was truth, and that one day there would be none but the Rakasha, flitting above the peeked landscape of a dead world.
 
@@ -4059,18 +4058,13 @@ Yama nodded, yawned, lit another cigarette.
 
 "Executions are not held in Heaven," said Yama, opening a cabinet and removing a chessboard.
 
-[]{#Section0005.xhtml}
 
-::: salto25
-![](Images/fig.png)
-:::
+V
+---
 
-# FIVE {.titulocap title="Five"}
+**From Hellwell to Heaven he went, there to commune with the gods. The Celestial City holds many mysteries, including some of the keys to his own past. Not all that transpired during the time he dwelled there is known. It is known, however, that he petitioned the gods on behalf of the world, obtaining the sympathy of some, the enmity of others. Had he chosen to betray humanity and accept the proffers of the gods, it is said by some that he might have dwelled forever as a Lord of the City and not have met his death beneath the claws of the phantom cats of Kaniburrha. It is said by his detractors, though, that he did accept these proffers, but was later betrayed himself, so giving his sympathies back to suffering mankind for the rest of his days, which were few...**
 
-:::: cita
-From Hellwell to Heaven he went, there to commune with the gods. The Celestial City holds many mysteries, including some of the keys to his own past. Not all that transpired during the time he dwelled there is known. It is known, however, that he petitioned the gods on behalf of the world, obtaining the sympathy of some, the enmity of others. Had he chosen to betray humanity and accept the proffers of the gods, it is said by some that he might have dwelled forever as a Lord of the City and not have met his death beneath the claws of the phantom cats of Kaniburrha. It is said by his detractors, though, that he did accept these proffers, but was later betrayed himself, so giving his sympathies back to suffering mankind for the rest of his days, which were few...
-
-::: poema
+<div style="max-width: 300px; margin: 0 auto; font-style: italic;">
 Girt about with lightnings, standard-bearer, armed with the sword, the wheel, the bow,
 
 devourer, sustainer. Kali, night of destruction at Worldsend, who walketh the world by night,
@@ -4084,10 +4078,9 @@ opener of the way before those lost, granter of favors, teacher, valor in the fo
 chameleon-hearted, practitioner of austerities, magician, pariah, deathless and eternal....
 
 *Âryatârâbhattârikânâmâshtottarásatakastotra* (36-40)
-:::
-::::
+</div>
 
-[T]{.capital}hen, as so often in the past, her snowy fur was sleeked by the wind.
+Then, as so often in the past, her snowy fur was sleeked by the wind.
 
 She walked where the lemon-colored grasses stirred. She walked a winding track under dark trees and jungle flowers, crags of jasper rising to her right, veins of milk-white rock, shot through with orange streaks, open about her.
 
@@ -7852,11 +7845,10 @@ Death and Light are everywhere, always, and they begin, end, strive, attend, int
 
 As the wearers of the saffron robe still meditate upon the Way of Light, and the girl who is named Murga visits the Temple daily, to place before her dark one in his shrine the only devotion he receives, of flowers.
 
-[]{#autor.xhtml}
 
-#  {.oculto title="About the author"}
+**About the author**
 
-![](Images/autor.jpg){height="100%"}
+
 
 ROGER ZELAZNY. He was born in Euclid, Ohio, the only child of Polish immigrant Joseph Frank Zelazny and Irish-American Josephine Flora Sweet. In high school, he became the editor of the school newspaper and joined the Creative Writing Club. In the fall of 1955, he began attending Western Reserve University and graduated with a B.A. in English in 1959.\[2\] He was accepted to Columbia University in New York and specialized in Elizabethan and Jacobean drama, graduating with an M.A. in 1962. His M.A thesis was entitled "Two traditions and Cyril Tourneur: an examination of morality and humor comedy conventions in 'The revenger's tragedy'". Between 1962 and 1969 he worked for the U.S. Social Security Administration in Cleveland, Ohio and then in Baltimore, Maryland spending his evenings writing science fiction. He deliberately progressed from short-shorts to novelettes to novellas and finally to novel-length works by 1965. On May 1, 1969, he quit to become a full-time writer, and thereafter concentrated on writing novels in order to maintain his income. During this period, he was an active and vocal member of the Baltimore Science Fiction Society, whose members included writers Jack Chalker and Joe and Jack Haldeman among others.
 
