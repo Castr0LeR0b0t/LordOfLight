@@ -3644,11 +3644,9 @@ Yama lui en tendit une allumée.
 ceux qui y vivent mouraient à l’instant, elle serait encore parfaite dans dix mille ans d’ici. Les fleurs s’épanouiraient toujours, la musique ne cesserait d’être jouée, et les fontaines onduleraient avec toutes les couleurs de l’arc-en-ciel. Des repas chauds seraient servis dans les pavillons des jardins. La Cité elle-même est immortelle.
 
 — Cela convient parfaitement, j’imagine, à ceux qui se font
-
 appeler des dieux.
 
 — Se font appeler ? Tu te trompes, dit Yama. La divinité est
-
 beaucoup plus qu’un nom. C’est un état, une condition de l’être. On n’y arrive pas du seul fait qu’on est immortel, car le plus humble des travailleurs des champs peut arriver à une existence continue. Tient-elle au fait qu’on prend un Aspect ? Non, car n’importe quel hypnotiseur compétent peut jouer avec l’image qu’on a de soi et celle qu’on offre aux autres. Tient-elle au fait qu’on peut activer un Attribut ? Évidemment non, car je peux inventer et construire des machines plus puissantes et beaucoup plus précises que n’importe quelle faculté cultivée par l’homme. Être dieu est une qualité : celle de pouvoir être soi-même à un point tel que nos passions correspondent avec les forces de l’univers, si bien que ceux qui nous regardent le comprennent sans même qu’on leur dise notre nom. Un poète antique a dit que l’univers est plein d’échos et de correspondances. Un autre a écrit un long poème sur un enfer, où chaque homme subissait une torture de même nature que les forces qui avaient gouverné son existence. Être dieu signifie reconnaître en soi ce qui est important et le faire concorder avec tout ce qui existe. Alors, au-delà de toute morale, de toute logique, de toute esthétique, on est le vent, le feu, la mer, la montagne, la pluie, le soleil ou les étoiles, le vol d’une flèche, la fin d’un jour, l’enlacement amoureux. On règne par les passions qui gouvernent les hommes. Et ceux qui contemplent les dieux disent alors, sans même savoir leurs noms : « Il est le Feu, Elle est la Danse, Il est la Destruction, Elle est l’Amour. » Donc, pour répondre à ton affirmation, ils ne se font pas appeler des dieux, mais sont divinisés par tous ceux qui les contemplent.
 
 — Vous jouez donc encore ce petit air fasciste ?
