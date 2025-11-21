@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>Feuille de personnage — Seigneur de Lumière</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #f5f1e6;
+      font-family: "Georgia", "Times New Roman", serif;
+      font-size: 12px;
+    }
+    .sheet {
+      width: 900px;
+      margin: 0 auto;
+      background: #ffffff;
+      border: 2px solid #000;
+      padding: 18px 24px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.25);
+    }
+    h1 {
+      text-align: center;
+      font-size: 28px;
+      letter-spacing: 0.08em;
+      margin: 0 0 2px 0;
+      text-transform: uppercase;
+    }
+    .subtitle {
+      text-align: center;
+      font-size: 14px;
+      margin: 0 0 8px 0;
+    }
+    .box {
+      border: 1px solid #000;
+      padding: 6px 10px;
+      margin-bottom: 8px;
+    }
+    .box-title {
+      font-weight: bold;
+      text-transform: uppercase;
+      font-size: 12px;
+      border-bottom: 1px solid #000;
+      margin-bottom: 4px;
+    }
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 12px;
+      margin-bottom: 4px;
+    }
+    .field {
+      flex: 1 1 40%;
+      font-size: 11px;
+    }
+    .field.full {
+      flex-basis: 100%;
+    }
+    .label {
+      font-weight: bold;
+    }
+    .line {
+      display: inline-block;
+      border-bottom: 1px solid #000;
+      min-width: 140px;
+      height: 1.1em;
+      vertical-align: bottom;
+    }
+    .small-line {
+      min-width: 80px;
+    }
+    .tiny-line {
+      min-width: 40px;
+    }
+    .checkbox-label {
+      margin-right: 10px;
+      white-space: nowrap;
+    }
+    .checkbox-label input {
+      vertical-align: middle;
+      margin-right: 2px;
+    }
+    .abilities-table,
+    .simple-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 11px;
+      margin-top: 4px;
+    }
+    .abilities-table th,
+    .abilities-table td,
+    .simple-table th,
+    .simple-table td {
+      border: 1px solid #000;
+      padding: 2px 4px;
+    }
+    .abilities-table th,
+    .simple-table th {
+      background: #f0ede0;
+      text-align: left;
+    }
+    .two-columns {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .col {
+      flex: 1 1 0;
+    }
+    .notes-block {
+      min-height: 5em; /* page 1 : blocs de notes confortables */
+      border: 1px dashed #999;
+      margin-top: 2px;
+    }
+    .notes-block.small {
+      min-height: 3.5em;
+    }
+    .notes-block.notes-incarnation {
+      min-height: 7em;
+    }
+    .notes-block.notes-relations {
+      min-height: 7em;
+    }
+    @page {
+      size: 8.5in 11in;
+      margin: 10mm;
+    }
+    .sheet-page1 {
+      page-break-after: always;
+    }
+    .sheet-page2 {
+      padding-bottom: 6px; /* réduit l'espace blanc sous Relations / Notes de campagne */
+    }
+    /* Page 2 : on libère de l'espace pour Relations */
+    .sheet-page2 .notes-block {
+      min-height: 3em;
+    }
+    .sheet-page2 .notes-block.small {
+      min-height: 2.4em;
+    }
+    .sheet-page2 .notes-block.notes-incarnation {
+      min-height: 5em;
+    }
+    .sheet-page2 .notes-block.notes-relations {
+      min-height: 23em;
+    }
+    .sheet-page2 .notes-block.notes-campagne {
+      min-height: 45em;
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet sheet-page1">
+    <h1>Seigneur de Lumière</h1>
+    <div class="subtitle">Feuille de personnage</div>
+
+    <!-- Identité & caractéristiques -->
+    <div class="box">
+      <div class="box-title">Identité du personnage</div>
+      <div class="row">
+        <div class="field">
+          <span class="label">Nom actuel :</span>
+          <span class="line " style="min-width: 330px;"></span>
+        </div>
+        <div class="field">
+          <span class="label">Concept / archétype :</span>
+          <span class="line" style="min-width: 310px;"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Noms d’autres incarnations connus (en bref) :</span>
+          <span class="line" style="min-width: 613px;"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field">
+          <span class="label">Origine :</span>
+          <span class="line"></span>
+        </div>
+        <div class="field">
+          <span class="label">Statut social ou Caste :</span>
+          <span class="line"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Époque de départ :</span>
+          <label class="checkbox-label"><input type="checkbox" /> Conquête</label>
+          <label class="checkbox-label"><input type="checkbox" /> Cristallisation</label>
+          <label class="checkbox-label"><input type="checkbox" /> Proto‑panthéon</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field">
+          <span class="label">Taille :</span> <span class="line small-line"></span>
+        </div>
+        <div class="field">
+          <span class="label">Poids :</span> <span class="line small-line"></span>
+        </div>
+        <div class="field">
+          <span class="label">Cheveux :</span> <span class="line small-line"></span>
+        </div>
+        <div class="field">
+          <span class="label">Yeux :</span> <span class="line small-line"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Description / style :</span>
+          <div class="notes-block small"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scores d’habilités -->
+    <div class="box">
+      <div class="box-title">Scores d’habilités</div>
+      <table class="abilities-table">
+        <tr>
+          <th>Habilité</th>
+          <th>Score</th>
+          <th>Rôle en jeu (rappel)</th>
+        </tr>
+        <tr>
+          <td>Tech / Gyaan / Feu universel</td>
+          <td style="width:70px; text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td>Systèmes, vaisseau, relais, technologie héritée du Pont des Dieux.</td>
+        </tr>
+        <tr>
+          <td>Psy / Dimag / Interface</td>
+          <td style="text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td>Scans, réincarnations, résistance mentale, introspection.</td>
+        </tr>
+        <tr>
+          <td>Warfare / Yuddh / Combat</td>
+          <td style="text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td>Tactique, bataille, commandement, survie.</td>
+        </tr>
+        <tr>
+          <td>Charisma / Maya / Influence</td>
+          <td style="text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td>Influence, récits, foules, mise en scène techno‑religieuse.</td>
+        </tr>
+      </table>
+      <div class="row" style="margin-top:4px;">
+        <div class="field full">
+          <span class="label">Notes (points forts / faibles) :</span>
+          <div class="notes-block"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Aspect -->
+    <div class="box">
+      <div class="box-title">Aspect personnel</div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Titre d’Aspect :</span>
+          <span class="line" style="min-width: 400px;"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Description (Comment l'aspect est perçu) :</span>
+          <div class="notes-block"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Scènes / domaines où l’Aspect se manifeste :</span>
+          <div class="notes-block small"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Attributs -->
+    <div class="box">
+      <div class="box-title">Attributs personnels</div>
+      <table class="simple-table">
+        <tr>
+          <th>Attribut</th>
+          <th>Niveau</th>
+          <th>Coût</th>
+          <th>Effets / notes</th>
+        </tr>
+        <tr>
+          <td style="width:120px;"><span class="line" style="min-width:100px;"></span></td>
+          <td style="width:90px;">
+            <label class="checkbox-label"><input type="checkbox" /> Initié</label><br />
+            <label class="checkbox-label"><input type="checkbox" /> Expert</label>
+          </td>
+          <td style="width:55px; text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td><div class="notes-block small"></div></td>
+        </tr>
+        <tr>
+          <td><span class="line" style="min-width:100px;"></span></td>
+          <td>
+            <label class="checkbox-label"><input type="checkbox" /> Initié</label><br />
+            <label class="checkbox-label"><input type="checkbox" /> Expert</label>
+          </td>
+          <td style="text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td><div class="notes-block small"></div></td>
+        </tr>
+        <tr>
+          <td><span class="line" style="min-width:100px;"></span></td>
+          <td>
+            <label class="checkbox-label"><input type="checkbox" /> Initié</label><br />
+            <label class="checkbox-label"><input type="checkbox" /> Expert</label>
+          </td>
+          <td style="text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td><div class="notes-block small"></div></td>
+        </tr>
+        <tr>
+          <td><span class="line" style="min-width:100px;"></span></td>
+          <td>
+            <label class="checkbox-label"><input type="checkbox" /> Initié</label><br />
+            <label class="checkbox-label"><input type="checkbox" /> Expert</label>
+          </td>
+          <td style="text-align:center;">
+            <span class="line tiny-line"></span>
+          </td>
+          <td><div class="notes-block small"></div></td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Foci -->
+    <div class="box">
+      <div class="box-title">Foci (objets, implants, reliques…)</div>
+      <table class="simple-table">
+        <tr>
+          <th>Focus</th>
+          <th>Rôle / lien (Attribut, habileté…)</th>
+        </tr>
+        <tr>
+          <td style="width:150px;"><span class="line" style="min-width:120px;"></span></td>
+          <td><div class="notes-block small"></div></td>
+        </tr>
+        <tr>
+          <td><span class="line" style="min-width:120px;"></span></td>
+          <td><div class="notes-block small"></div></td>
+        </tr>
+        <tr>
+          <td><span class="line" style="min-width:120px;"></span></td>
+          <td><div class="notes-block small"></div></td>
+        </tr>
+      </table>
+    </div>
+
+  </div> <!-- fin page 1 -->
+
+  <div class="sheet sheet-page2">
+
+    <!-- Incarnations -->
+    <div class="box">
+      <div class="box-title">Incarnations notables</div>
+      <table class="simple-table">
+        <tr>
+          <th style="width:12%;">Nom / alias</th>
+          <th style="width:12%;">Époque / lieu</th>
+          <th style="width:12%;">Rôle / statut</th>
+          <th style="width:64%;">Notes</th>
+        </tr>
+        <tr>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:64%;"><div class="notes-block notes-incarnation"></div></td>
+        </tr>
+        <tr>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:64%;"><div class="notes-block notes-incarnation"></div></td>
+        </tr>
+        <tr>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:12%;"><span class="line" style="min-width:60px;"></span></td>
+          <td style="width:64%;"><div class="notes-block notes-incarnation"></div></td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Karma & liens d'âme -->
+    <div class="box">
+      <div class="box-title">Karma, liens d’âme et trajectoire</div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Souvenirs marquants d’incarnations passées :</span>
+          <div class="notes-block"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Liens forts d’âme (autres PJ ou PNJ) :</span>
+          <div class="notes-block small"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Ce que le PJ espère gagner ou fuir à travers ses réincarnations :</span>
+          <div class="notes-block small"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Piété & faveurs -->
+    <div class="box">
+      <div class="box-title">Piété, prières et faveurs divines</div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Dieu(x) principalement vénéré(s) :</span>
+          <span class="line" style="min-width: 400px;"></span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Pratiques régulières (prières, offrandes, tabous) :</span>
+          <div class="notes-block small"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Faveurs déjà reçues (miracles, visions, protections) :</span>
+          <div class="notes-block small"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field full">
+          <span class="label">Faveurs espérées, vœux, dettes spirituelles :</span>
+          <div class="notes-block small"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Relations & notes -->
+    <div class="two-columns">
+      <div class="col">
+        <div class="box">
+          <div class="box-title">Relations, alliés, ennemis</div>
+          <div class="row">
+            <div class="field full">
+              <span class="label">Alliés importants (humains, dieux, Rakashas, autres) :</span>
+              <div class="notes-block notes-relations"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="field full">
+              <span class="label">Ennemis, rancunes, dettes :</span>
+              <div class="notes-block notes-relations"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="box">
+          <div class="box-title">Notes de campagne</div>
+          <div class="notes-block notes-campagne"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

@@ -48,13 +48,9 @@ Pour que ce panthéon tienne, il fallait que ceux d’en bas oublient. On enseig
 
 On dit qu’en la trente‑troisième année après sa délivrance le Bouddha revint du Nuage d’Or pour accepter une fois encore le défi du Ciel, combattre l’ordre établi et les dieux qui l’avaient imposé. On dit bien des choses.
 
-Ce jeu ne vous demande pas de jouer **Sam le Bouddha**. Il n’y a qu’un seul Seigneur de Lumière, qu’il ait choisi d’être Bouddha par calcul, par esthétique, ou par ennui sacré. Mais vous vivez dans son **ombre** :
+Ce jeu ne vous demande pas de jouer **Sam le Bouddha**. Il n’y a qu’un seul Seigneur de Lumière, qu’il ait choisi d’être Bouddha par calcul, par esthétique, ou par ennui sacré. Mais vous vivez dans son **ombre** : vous croisez ses disciples et ses ennemis, vous voyez les traces de ses guerres sur les villes et dans les Salles du Karma, vous profitez des brèches qu’il a ouvertes dans l’armure des dieux.
 
-- vous croisez ses disciples et ses ennemis ;
-- vous voyez les traces de ses guerres sur les villes et dans les Salles du Karma ;
-- vous profitez des brèches qu’il a ouvertes dans l’armure des dieux.
-
-Les PJ sont des **Premiers mineurs** ou leurs descendants — ceux qui n’ont pas pris place sur le trône des dieux, mais qui savent que la divinité est une technologie et un mensonge bien tenu.
+Les PJ sont des **Premiers ** mineurs ou leurs descendants — ceux qui n’ont pas pris place sur le trône des dieux, mais qui savent que la divinité est une technologie et un mensonge bien tenu.
 
 ## 2. La planète et le Pont des Dieux
 
@@ -66,10 +62,7 @@ Le monde n’a pas de nom unique. Les hommes l’appellent par leurs villes, les
 
 Ce **Pont des Dieux** n’est pas un miracle : c’est l’anneau orbital, réseau d’installations héritées du vaisseau colonisateur. Il sert de colonne vertébrale au **feu universel** :
 
-- satellites de communication, observation, ciblage ;
-- plates‑formes d’armement orbitaux et atmosphériques ;
-- réseaux d’alimentation, générateurs, relais ;
-- intelligences artificielles et manufactures automatiques.
+satellites de communication, d’observation et de ciblage, plates‑formes d’armement orbitaux et atmosphériques, réseaux d’alimentation, générateurs et relais, intelligences artificielles et manufactures automatiques forment cette charpente invisible.
 
 Au début, les Premiers disposaient de tout cela comme d’une boîte à outils. Plus tard, ils en firent une théologie : les consoles devinrent des autels, les projecteurs des miracles, les opérateurs des dieux.
 
@@ -81,11 +74,7 @@ Ils venaient de **Terre détruite**, entassés dans un vaisseau chargé de biote
 
 > *« Il était de moitié plus vieux que la Cité Céleste et dix dieux à peine se rappelaient la fondation de la demeure. On le savait plus instruit même que le dieu Kubera en ce qui concernait le Feu Universel. Mais c’étaient là ses moindres Attributs. »*
 
-Peu à peu, certains Premiers se revêtent d’Aspects et d’Attributs : ils deviennent **dieux** aux yeux de ceux qu’ils dominent. D’autres, plus nombreux, deviennent :
-
-- des administrateurs de Karma ;
-- des Lokapalas, des maîtres d’armes, des gardiens ;
-- ou se perdent dans la masse des réincarnations.
+Peu à peu, certains Premiers se revêtent d’Aspects et d’Attributs : ils deviennent **dieux** aux yeux de ceux qu’ils dominent. D’autres, plus nombreux, deviennent des administrateurs de Karma, des Lokapalas, des maîtres d’armes, des gardiens, ou se perdent dans la masse des réincarnations.
 
 Les PJ appartiennent à ces zones grises : assez proches du pouvoir pour voir les ficelles, assez loin pour risquer de rompre la corde.
 
@@ -95,11 +84,9 @@ Les PJ appartiennent à ces zones grises : assez proches du pouvoir pour voir le
 
 Le **feu universel** est à la fois moteur et langage : une toile d’énergie et de commandes qui relie vaisseau, satellites, stations, implants, armes et Halls of Karma. Ceux qui savent lui parler deviennent redoutables.
 
-Pour le jeu, on le lit comme :
+À l’époque de la **colonisation**, les Premiers lui donnaient un nom plus technique : *grille de champ unifié* (*Unified Field Grid*). Ce n’est que plus tard, quand ce réseau a été sacralisé et confondu avec la volonté des dieux, qu’on lui a donné le surnom de **feu universel**.
 
-- un réseau technologique omniprésent ;
-- traversé par les volontés des Premiers et des IA survivantes ;
-- qui obéit mieux à ceux dont l’esprit a été poli par des dizaines de corps successifs.
+Pour le jeu, on le lit comme un réseau technologique omniprésent, traversé par les volontés des Premiers et des IA survivantes, qui obéit mieux à ceux dont l’esprit a été poli par des dizaines de corps successifs.
 
 Les **Attributs techno / feu universel** des dieux (Death de Yama, feu d’Agni, Binder de Sam…) sont des maîtrises extrêmes de ce réseau. Les PJ, eux, n’en manipulent que des **éclats** : commandes locales, drones, champs limités, foci spécialisés.
 
@@ -111,17 +98,9 @@ Les **Attributs techno / feu universel** des dieux (Death de Yama, feu d’Agni,
 
 Dans ce monde, la mort n’est pas toujours la fin. Les Premiers ont appris, en étudiant les Rakashas, à capturer le **body‑image** d’un individu — ce schéma électrochimique qui persiste un instant au moment du décès — et à le rejeter dans un autre corps.
 
-Les **Salles du Karma** sont les usines de ce miracle :
+Les **Salles du Karma** sont les usines de ce miracle : elles enregistrent la vie en **psych‑tape**, la rejouent comme un **karmic play‑back** devant des Masters de Karma, puis décident, pour chaque âme, d’un nouveau corps, d’une nouvelle caste et d’une nouvelle durée.
 
-- ils enregistrent la vie en **psych‑tape** ;
-- la rejouent comme un **karmic play‑back** devant des Masters de Karma ;
-- décident, pour chaque âme, d’un nouveau corps, d’une nouvelle caste, d’une nouvelle durée.
-
-Le **Karma** n’est donc pas un halo mystique, mais un **dossier** :
-
-- un enregistrement de vos actes ;
-- relu, commenté et tordu par des humains (ou leurs successeurs) qui ont leurs propres intérêts ;
-- utilisé pour justifier l’ordre social : « Tu es né ainsi parce que tu l’as mérité. »
+Le **Karma** n’est donc pas un halo mystique, mais un **dossier** : un enregistrement de vos actes, relu, commenté et tordu par des humains (ou leurs successeurs) qui ont leurs propres intérêts, puis utilisé pour justifier l’ordre social : « Tu es né ainsi parce que tu l’as mérité. »
 
 Dans le jeu, le Karma n’est **pas un score** : il est un carnet secret dans les mains du MJ, lourd des choix de vos PJ.
 
@@ -133,17 +112,9 @@ Dans le jeu, le Karma n’est **pas un score** : il est un carnet secret dans le
 
 Les **Rakashas** étaient là avant l’arrivée des humains. Ils ont abandonné la chair pour devenir des tourbillons d’énergie conscients. Ils peuvent prendre forme, parler, parier, maudire — mais ils ne peuvent pas revenir durablement dans un corps sans aide.
 
-Les dieux les ont vaincus, puis **liés** dans des puits magnétiques. Sam en a libéré certains, en a fait des alliés ambigus. Les Rakashas aiment :
+Les dieux les ont vaincus, puis **liés** dans des puits magnétiques. Sam en a libéré certains, en a fait des alliés ambigus. Les Rakashas aiment les jeux de hasard aux enjeux absurdes, les pactes aux clauses perfides, les affrontements de flammes et de mots.
 
-- les jeux de hasard aux enjeux absurdes ;
-- les pactes aux clauses perfides ;
-- les affrontements de flammes et de mots.
-
-Autour d’eux gravitent d’autres créatures :
-
-- esprits élémentaires (feu, orage) ;
-- slézards, nagas, animaux améliorés ;
-- figures plus obscures, tapis dans les forêts ou sous les mers.
+Autour d’eux gravitent d’autres créatures : esprits élémentaires (feu, orage), slézards, nagas et animaux améliorés, ainsi que des figures plus obscures, tapis dans les forêts ou sous les mers.
 
 Pour vos scénarios, les Rakashas sont des **puissances extérieures au système de Karma** : ils n’obéissent ni aux dieux, ni aux castes, ni aux lois humaines. Ils peuvent être l’ennemi impossible ou l’allié qui vous ruinera plus tard.
 
@@ -151,22 +122,13 @@ Pour vos scénarios, les Rakashas sont des **puissances extérieures au système
 
 ![Illustration – La Cité Céleste](images/argo08.png)
 
-Les récits sur Sam, les Premiers et les dieux ne suivent pas toujours l’ordre chronologique. Pour le jeu, on distingue trois **époques** principales, qui se croisent avec vos campagnes :
+Les récits sur Sam, les Premiers et les dieux ne suivent pas toujours l’ordre chronologique. Pour le jeu, on distingue trois **époques** principales, qui se croisent avec vos campagnes.
 
-1. **Époque de conquête**  
-   - le vaisseau est encore récent dans le ciel ;
-   - la technologie est abondante, les Rakashas dominent encore des régions entières ;
-   - les Premiers testent les premiers transferts, les premiers Halls.
+L’**époque de conquête** voit un vaisseau encore récent dans le ciel, une technologie abondante, tandis que les Rakashas dominent encore des régions entières et que les Premiers testent les premiers transferts et les premiers Halls.
 
-2. **Époque de cristallisation du pouvoir**  
-   - certains Premiers prennent des noms de dieux, enfilent leurs Aspects ;
-   - le système des castes se durcit ;
-   - les guerres contre l’accélérationisme s’intensifient.
+L’**époque de cristallisation du pouvoir** est celle où certains Premiers prennent des noms de dieux et enfilent leurs Aspects, où le système des castes se durcit et où les guerres contre l’accélérationisme s’intensifient.
 
-3. **Époque proto‑panthéon**  
-   - le panthéon hindou est presque en place ;
-   - les Salles du Karma sont devenues des forteresses ;
-   - Sam revient du Nuage d’Or, et l’Histoire s’accélère.
+L’**époque proto‑panthéon** arrive lorsque le panthéon hindou est presque en place, que les Salles du Karma sont devenues des forteresses et que Sam revient du Nuage d’Or, accélérant l’Histoire.
 
 Lieux emblématiques :
 
@@ -312,15 +274,42 @@ Chaque PJ est défini par quatre **scores d’habilités comparatifs** :
 
 1. **Tech / Gyaan / Feu universel**  
    Maîtrise de la technologie du vaisseau, des systèmes avancés, des interfaces.
+   
+   - Sert à : comprendre / détourner des systèmes, saboter proprement, piloter des engins ou reconfigurer des réseaux (Pont des Dieux, Halls, relais…).
+   - Avec un score élevé : tu es l’ingénieur, le hacker, le bricoleur génial que l’on appelle dès qu’une porte refuse de s’ouvrir ou qu’une arme refuse de tirer.
+   - Avec un score faible : tu dépends des autres pour tout ce qui dépasse l’outil simple ou l’arme standard ; une interface mal comprise peut te trahir.
+   - Questions à te poser :
+     - « Qu’est‑ce que je comprends mieux que la plupart des gens dans les systèmes hérités du vaisseau ? »
 
 2. **Psy / Dimag / Interface**  
    Résistance mentale, compréhension des scanners, stabilité de l’esprit entre les vies et netteté de votre **image‑propre** (les PJ à Psy élevé récupèrent plus vite leurs Attributs après une réincarnation).
+   
+   - Sert à : encaisser les pressions psychiques, lire / interpréter des scans, résister aux illusions et aux implants, garder le cap à travers les réincarnations.
+   - Avec un score élevé : tu encaisses les trips de Sam, les visions de Mara, les réécritures d’identités ; ton esprit reste cohérent même quand le corps change.
+   - Avec un score faible : tu es plus vulnérable aux grands sorts, aux manipulations mentales, aux fragments de souvenirs importés d’autres vies.
+   - Questions à te poser :
+     - « Quel est mon niveau d’introspection ou de sensibilité ? »
+     - « Quelle importance mon Atman (âme) accorde‑t‑il à sa condition éternelle ? »
 
 3. **Warfare / Yuddh / Combat**  
    Combat, tactique de petites unités, survie sur un monde hostile.
+   
+   - Sert à : tout ce qui implique manœuvres, embuscades, duels, commandement de troupes, usage intelligent du terrain.
+   - Avec un score élevé : tu sais où placer les forces, quand reculer, quand frapper ; ton nom circule dans les mess et chez les Rakashas.
+   - Avec un score faible : tu peux être courageux, mais tu restes un **civil armé** dans un monde de professionnels de la guerre.
+   - Questions à te poser :
+     - « Quelle bataille passée m’a valu ma réputation (bonne ou mauvaise) ? »
+     - « Quelle erreur tactique je refuse de refaire ? »
 
 4. **Charisma / Maya / Influence**  
    Charisme, manipulations symboliques, mise en scène techno‑religieuse.
+   
+   - Sert à : négocier avec des foules, des dieux ou des Rakashas, déclencher des révoltes, calmer une émeute, jouer avec les récits officiels.
+   - Avec un score élevé : ta simple présence change la donne ; tes mots et tes silences sont des armes.
+   - Avec un score faible : tu peux avoir raison, mais tu as du mal à te faire entendre ou à façonner l’histoire qu’on racontera de toi.
+   - Questions à te poser :
+     - « Quel est mon public naturel (soldats, foules, techniciens, mystiques…) ? »
+     - « Quel mensonge ou quelle vérité ai‑je déjà fait passer en légende ? »
 
 Les joueurs disposent de **60 points** à répartir entre ces quatre scores, avec deux contraintes :
 
