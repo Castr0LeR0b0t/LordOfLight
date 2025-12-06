@@ -156,7 +156,7 @@ Ce bestiaire rassemble quelques **figures non humaines** importantes du monde : 
   - alliés capricieux, joueurs, très sensibles aux paris, serments et humiliations ;
   - présence idéale pour rappeler que le monde n’appartient pas qu’aux humains ;
   - certains se manifestent comme des **gardes de feu** ou élémentaires liés à des anneaux, rituels ou Attributs, parfaits pour annoncer l’arrivée d’une puissance ou accompagner un pacte conclu avec Sam ;
-  - gardiens et témoins des **anciennes guerres** contre d’autres puissances non humaines : Nagas, Gandharvas, People-of-the-Sea, démons Kataputna, Mothers of the Terrible Glow, Dakshinis, Pretas, Skandas, Pisakas (autant de factions prêtes à émerger en campagne).
+  - gardiens et témoins des **anciennes guerres** contre d’autres puissances non humaines : Nagas, Gandharvas, Aquatides, démons Kataputna, Mothers of the Terrible Glow, Dakshinis, Pretas, Skandas, Pisakas (autant de factions prêtes à émerger en campagne).
 
 
 #### Chats fantômes de la forêt de Kaniburrha
@@ -213,7 +213,7 @@ Ce bestiaire rassemble quelques **figures non humaines** importantes du monde : 
   - incarnation visible des protections du Temple ;
   - support ou focus pour des Attributs liés à l’eau, aux profondeurs ou aux secrets.
 
-#### People-of-the-Sea
+#### Aquatides
 
 - **Nature** : peuple marin ancien, lié aux profondeurs océaniques et aux côtes oubliées.
 - **Rôle** : ennemis primordiaux des dieux lors des guerres qui précédèrent la première cité humaine.

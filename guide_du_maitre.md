@@ -97,7 +97,7 @@
 **Synergie avec le Noyau de marée** :
 - Le Noyau pulse des champs EM qui stimulent la croissance des Mycoselenites
 - Les Mycoselenites agissent comme **amplificateurs biologiques** du signal du Noyau
-- Écosystème symbiotique : Noyau ↔ Mycoselenites ↔ People-of-the-Sea
+- Écosystème symbiotique : Noyau ↔ Mycoselenites ↔ Aquatides
 
 **Menace pour les humains** :
 - **Effets respiratoires** : Fibrose pulmonaire (2-3 ans d'exposition)
@@ -110,7 +110,7 @@
 - Filtres orbitaux saturés en quelques semaines
 - Mycoselenites repoussent en quelques mois (nourris par le Noyau)
 - Tant que le Noyau existe, la colonisation est condamnée
-- **Verdict** : Détruire le Noyau = tuer les Mycoselenites + les People-of-the-Sea = permettre la survie humaine
+- **Verdict** : Détruire le Noyau = tuer les Mycoselenites + les Aquatides = permettre la survie humaine
 
 ### 1.4. Le Universal Fire comme réseau technologique
 
@@ -631,13 +631,13 @@ Même si les PJ n’ont pas (encore) de véritables Aspects/Attributes divins, l
 
 ### 6.4. L'aventure d'ouverture : L'Incident du Noyau de Marée
 
-**Contexte** : 3-5 ans après l'arrivée, la colonie est au bord de l'effondrement. Le **Noyau de marée**, structure psycho-énergétique sous-marine sacrée pour les People-of-the-Sea, est une menace existentielle pour les humains.
+**Contexte** : 3-5 ans après l'arrivée, la colonie est au bord de l'effondrement. Le **Noyau de marée**, structure psycho-énergétique sous-marine sacrée pour les Aquatides, est une menace existentielle pour les humains.
 
 **Le dilemme moral central** :
 - Le Noyau agit comme un cœur électromagnétique planétaire
 - Il nourrit les Mycoselenites qui empoisonnent lentement tous les colons
 - Il rend la terraformation impossible
-- **Mais** : Le Noyau est le cœur de la mémoire collective des People-of-the-Sea
+- **Mais** : Le Noyau est le cœur de la mémoire collective des Aquatides
 - **Équation impossible** : Détruire le Noyau = sauver l'humanité mais exterminer une civilisation ancienne
 
 **La mission** :
@@ -656,7 +656,7 @@ Même si les PJ n’ont pas (encore) de véritables Aspects/Attributes divins, l
 - Ce cluster sera redécouvert des décennies plus tard, forçant les PJ à se réincarner ensemble
 
 **Conséquences narratives** :
-- Les PJ ne font pas partie de l'élite destinée à la divinité (ont remis en question les ordres, protégé des People-of-the-Sea, etc.)
+- Les PJ ne font pas partie de l'élite destinée à la divinité (ont remis en question les ordres, protégé des Aquatides, etc.)
 - Leurs âmes restent liées à travers toutes leurs incarnations futures
 - L'Incident est classé comme "anomalie" et partiellement oublié
 

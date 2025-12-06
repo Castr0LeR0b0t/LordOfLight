@@ -245,7 +245,7 @@
 - **Followers of Sam / wearers of the saffron robe** : ordre bouddhiste errant abrité par Ratri.  
 - **Order of Ratri** : moines en robe sombre au service de la déesse de la Nuit.  
 - **Nameless** : principe cosmique, au‑delà de tous les noms, cœur du sermon de Sam.
- - **People‑of‑the‑Sea** : peuple ou entité hostile contre lequel les dieux ont mené la guerre aux premiers temps : Sam évoque « *the wars against the People-of-the-Sea* » avant la fondation de la première cité humaine.  
+ - **People‑of‑the‑Sea** : peuple ou entité hostile contre lequel les dieux ont mené la guerre aux premiers temps : Sam évoque « *the wars against the Aquatides* » avant la fondation de la première cité humaine.  
  - **Mothers of the Terrible Glow** : puissances dangereuses associées à un rayonnement destructeur, contre lesquelles les dieux ont combattu : « *the Mothers of the Terrible Glow* ».  
  - **Gandharvas** : groupe surnaturel cité parmi les ennemis initiaux : « *the Gandharvas* ».  
  - **Nagas** : mentionnés à la fois comme esprits serpentins (Nagas lumineux des machines de prière) et comme peuple que les dieux ont affronté : « *the Nagas* ».  

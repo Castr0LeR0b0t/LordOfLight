@@ -129,11 +129,11 @@
 - **Apparition** :
   - Sam évoque « *the Gandharvas* » lorsqu’il se remémore les guerres anciennes menées par les dieux.
 
-### People-of-the-Sea
+### Aquatides
 - **Nature** :
   - Peuple ou entité collective contre laquelle les dieux ont fait la guerre aux premiers temps.
 - **Apparition** :
-  - Sam se souvient des guerres « *against the People-of-the-Sea* » avant la fondation de la première cité humaine.
+  - Sam se souvient des guerres « *against the Aquatides* » avant la fondation de la première cité humaine.
 
 ### Dakshinis, Pretas, Skandas, Pisakas
 - **Nature** :

@@ -42,11 +42,11 @@ Les **Mycoselenites** sont des formations fongiques titanesques qui couvrent **1
 - **Effets génétiques** : Mutations dans les cellules reproductrices, taux de fausses couches élevé, malformations congénitales
 - **Espérance de vie réduite** : Les colons exposés sans protection meurent en moyenne 20-30 ans plus tôt
 
-**Adaptation locale** : Les **mammifères natifs** ont évolué un **organe spécialisé de filtrage des spores** (une sorte de "troisième poumon" couvert de cils vibratiles et de mucus enzymatique) que les humains ne possèdent pas. Les People-of-the-Sea, vivant principalement sous l'eau, sont moins exposés mais ont également développé des adaptations biologiques.
+**Adaptation locale** : Les **mammifères natifs** ont évolué un **organe spécialisé de filtrage des spores** (une sorte de "troisième poumon" couvert de cils vibratiles et de mucus enzymatique) que les humains ne possèdent pas. Les Aquatides, vivant principalement sous l'eau, sont moins exposés mais ont également développé des adaptations biologiques.
 
 **Pourquoi la terraformation échoue** : Tant que le Noyau de marée existe, les Mycoselenites continuent de prospérer et de libérer leurs spores. Les filtres atmosphériques orbitaux sont **saturés en quelques semaines** et tombent en panne à cause des interférences électromagnétiques du Noyau. Les tentatives de brûler ou d'éradiquer les Mycoselenites échouent : ils repoussent en quelques mois, nourris par l'énergie du Noyau.
 
-**Le verdict** : Détruire le Noyau de marée tuerait les Mycoselenites (qui mourraient privés de leur source d'énergie), permettant enfin une vraie terraformation. Mais cela exterminerait aussi les People-of-the-Sea. C'est un écosystème entièrement interconnecté — on ne peut pas sauver une partie sans condamner l'autre.
+**Le verdict** : Détruire le Noyau de marée tuerait les Mycoselenites (qui mourraient privés de leur source d'énergie), permettant enfin une vraie terraformation. Mais cela exterminerait aussi les Aquatides. C'est un écosystème entièrement interconnecté — on ne peut pas sauver une partie sans condamner l'autre.
 
 Au fil des décennies de colonisation (si le Noyau est détruit), l'atmosphère rouge s'éclaircira progressivement à mesure que les Mycoselenites meurent et que la terraformation réduit la biomasse sauvage. Mais à l'époque de cette aventure, le ciel est encore d'un rouge-orangé profond, et chaque respiration contient des milliers de spores toxiques.
 
@@ -88,7 +88,7 @@ Cette mission plantera deux fils conducteurs pour toute la campagne :
 - Si le Noyau de marée n'est pas neutralisé, la colonisation échouera dans 10-20 ans
 - Il n'y aura **pas de seconde chance** : pas de renforts, pas de retour sur Terre, pas d'évacuation
 - Les PJ le savent : **c'est eux ou nous, et "nous" inclut les 1 000 enfants qui n'ont pas demandé à être là**
-- Le génocide des People-of-the-Sea n'est pas une décision facile — c'est une décision **désespérée**
+- Le génocide des Aquatides n'est pas une décision facile — c'est une décision **désespérée**
 
 ### Environnement naturel
 
@@ -133,13 +133,13 @@ Cette mission plantera deux fils conducteurs pour toute la campagne :
 
 Il n'y a pas de compromis. Il n'y a pas de solution diplomatique. C'est une guerre d'extinction — et les humains, au bord de l'effondrement, ont déjà décidé qui doit survivre.
 
-**Pourquoi les People-of-the-Sea ne peuvent pas être épargnés** :
+**Pourquoi les Aquatides ne peuvent pas être épargnés** :
 - Leur civilisation est **symbiotique avec le Noyau** : détruire l'un tue l'autre
-- Les Mycoselenites sont **également liés au Noyau** : c'est un écosystème triangulaire (Noyau ↔ Mycoselenites ↔ People-of-the-Sea)
-- Détruire le Noyau = tuer les People-of-the-Sea + tuer les Mycoselenites = permettre la survie humaine
+- Les Mycoselenites sont **également liés au Noyau** : c'est un écosystème triangulaire (Noyau ↔ Mycoselenites ↔ Aquatides)
+- Détruire le Noyau = tuer les Aquatides + tuer les Mycoselenites = permettre la survie humaine
 - Ils refusent toute négociation : pour eux, le Noyau est sacré, non négociable
 - Les humains n'ont **pas le temps** d'attendre une solution diplomatique qui pourrait prendre des décennies (les colons meurent des spores **maintenant**)
-- Les ressources humaines sont **trop limitées** pour mener une guerre sur deux fronts (Rakashas + People-of-the-Sea)
+- Les ressources humaines sont **trop limitées** pour mener une guerre sur deux fronts (Rakashas + Aquatides)
 - C'est un **calcul froid** : sacrifier une espèce alien et un écosystème entier pour sauver l'humanité
 
 ---
@@ -342,13 +342,12 @@ Le MJ choisit l'une de ces trois identités pour le sergent qui porte le détona
 - **En jeu** :
   - **Accompagne les PJ** comme "sécurité militaire" officielle de la mission ;
   - **Observe et évalue** : les PJ sont-ils fiables ? Vont-ils interférer avec sa mission ? ;
-  - **Dilemme moral** : s'il se lie d'amitié avec les PJ ou sympathise avec les People-of-the-Sea, pourra-t-il accomplir sa mission ? ;
+  - **Dilemme moral** : s'il se lie d'amitié avec les PJ ou sympathise avec les Aquatides, pourra-t-il accomplir sa mission ? ;
   - **Peut révéler la vérité** : si les PJ gagnent sa confiance, ou si la situation devient désespérée ;
   - **Peut être découvert** : si les PJ fouillent son équipement, interceptent ses communications, ou remarquent son comportement suspect ;
-  - **Peut échouer** : capturé par les People-of-the-Sea, tué par un accident, ou refuser d'activer le détonateur au dernier moment.
+  - **Peut échouer** : capturé par les Aquatides, tué par un accident, ou refuser d'activer le détonateur au dernier moment.
 
 **Questions pour le MJ** :
-- Quel est son nom ? Son origine (Terre, colonie) ? Son âge ?
 - A-t-il de la famille parmi les survivants ? Des enfants dans les 1 000 ?
 - Quel est son rapport avec les PJ ? Mépris ? Respect prudent ? Camaraderie forcée ?
 - Va-t-il accomplir sa mission jusqu'au bout, ou y aura-t-il un moment où il hésite ?
@@ -356,7 +355,7 @@ Le MJ choisit l'une de ces trois identités pour le sergent qui porte le détona
 ### Chaman / Médiateur des People‑of‑the‑Sea
 
 - **Apparence physique** :
-  - **Espèce** : People-of-the-Sea (humanoïde aquatique)
+  - **Espèce** : Aquatides (humanoïde aquatique)
   - **Stature** : 1m90, silhouette élancée et fluide, adaptée à la vie marine
   - **Peau** : Écailles fines bleu-vert iridescentes, motifs bioluminescents le long de la colonne vertébrale et des avant-bras (pulsent doucement au rythme du Noyau)
   - **Visage** : Traits humanoïdes mais étranges — yeux larges sans paupières (membrane nictitante), nez réduit à deux fentes, bouche large avec dents fines. Expression difficile à lire pour les humains.
@@ -429,7 +428,7 @@ Candi a ajouté : "Je sais ce que je vous demande. Je sais que c'est un génocid
 - Les PJ, s'ils découvrent la vérité (fouille d'équipement, interception de communication, comportement suspect), accepteront-ils le génocide ?
 - Varma, s'il apprend l'existence du détonateur, tentera-t-il de l'empêcher (pour préserver son "laboratoire naturel") ?
 - Les People‑of‑the‑Sea, s'ils détectent la menace, attaqueront-ils pour se défendre ?
-- Le Sergent, s'il développe de l'empathie pour les PJ ou les People-of-the-Sea, pourra-t-il accomplir sa mission ?
+- Le Sergent, s'il développe de l'empathie pour les PJ ou les Aquatides, pourra-t-il accomplir sa mission ?
 
 > **Objectif apparent** : sécuriser un site stratégique et permettre des observations scientifiques.  
 > **Objectif secret** (connu seulement de Candi, Jan et du Sergent) : placer un détonateur nucléaire au cœur du Noyau de marée.  
