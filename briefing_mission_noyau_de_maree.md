@@ -91,9 +91,11 @@ Les **Mycoselenites** sont des formations fongiques géantes qui couvrent désor
 
 **Votre rôle** :
 - Maintenir la couverture de "mission scientifique"
-- Évaluer discrètement la faisabilité d'une destruction du Noyau
-- Préparer des plans d'évacuation en cas d'ordre de frappe
-- **Ne pas révéler** l'existence d'une option militaire à l'équipe civile
+- **Coordonner depuis le promontoire** : communications, logistique, surveillance
+- Évaluer les rapports du terrain et transmettre vos observations au commandement
+- **Si l'ordre de destruction est donné** : transmettre le signal d'activation au Sergent via communicateur crypté
+- **Ne pas révéler** l'existence de l'option militaire à l'équipe civile (sauf le Sergent, qui est dans la confidence)
+- Préparer des plans d'évacuation pour l'escouade sous-marine en cas d'urgence
 
 ---
 
@@ -102,15 +104,17 @@ Les **Mycoselenites** sont des formations fongiques géantes qui couvrent désor
 ### 3.1. Personnel militaire
 
 **Vous-même — Lieutenant Marcus Chen**
-- Commandant de terrain
-- Responsable de la sécurité et de la coordination
+- Commandant de terrain, **stationné au promontoire côtier**
+- Responsable de la coordination générale et du relais de communication
 - Liaison avec le commandement (Générale Nowak via Capitaine Olvegg)
+- **Ne descendra pas dans l'océan** — supervise depuis la surface
 
 **Sergent [Kwame Osei / Nadia Kovač / Takeshi Yamamoto]** (selon choix du MJ)
 - Un des 500 derniers soldats professionnels
 - Vétéran de 5 ans de guerre
-- Responsable de la sécurité rapprochée et des tactiques de combat
-- **Note** : Le Sergent a reçu des ordres séparés directement de la Générale Nowak. Vous n'avez pas besoin de connaître les détails — c'est une procédure standard pour les opérations sensibles.
+- **Accompagnera l'escouade dans l'océan** jusqu'au Noyau de marée
+- Responsable de la sécurité rapprochée et des tactiques de combat sous-marines
+- **Note** : Vous et le Sergent avez tous deux reçu des ordres secrets de la Générale Nowak concernant une option de destruction du Noyau. Le Sergent porte le matériel nécessaire. Vous coordonnez depuis la surface et transmettrez le signal d'activation si l'ordre est donné.
 
 ### 3.2. Personnel scientifique
 
@@ -134,15 +138,15 @@ Vous vous demandez peut-être pourquoi la Générale Nowak vous a choisi pour ce
 
 > *"Marcus, je sais ce que vous pensez. Vous pensez que vous n'êtes pas qualifié. Que vous êtes un imposteur. Que n'importe quel vrai officier ferait mieux que vous.*
 > 
-> *Mais c'est exactement pourquoi je vous envoie.*
+> *Mais c'est exactement pourquoi je vous place au promontoire comme coordinateur.*
 > 
-> *Les vrais soldats — les 500 qui restent — ils sont précieux. Je ne peux pas me permettre de les perdre sur une mission d'observation. Et surtout... ils obéissent trop bien. Si je leur donne un ordre, ils l'exécutent sans poser de questions. Même si c'est un ordre monstrueux.*
+> *Les vrais soldats — les 500 qui restent — ils sont précieux. J'en envoie un avec l'escouade (le Sergent), mais j'ai besoin de quelqu'un en surface qui puisse réfléchir, pas seulement obéir. Quelqu'un qui évaluera la situation avec sa tête ET sa conscience.*
 > 
-> *Vous, vous allez réfléchir. Vous allez observer. Vous allez me dire la vérité, pas ce que vous pensez que je veux entendre.*
+> *Vous coordonnerez depuis le promontoire. Vous recevrez les rapports du terrain. Vous observerez les Aquatides, le Noyau, les réactions de l'équipe. Et si je donne l'ordre de destruction... c'est vous qui transmettrez le signal au Sergent.*
 > 
-> *Et si je dois donner l'ordre de détruire le Noyau... je veux que quelqu'un sur le terrain ait une conscience. Quelqu'un qui comprendra le poids de ce que nous faisons.*
+> *Je veux que ce signal passe par quelqu'un qui comprend le poids de ce geste. Pas un automate. Quelqu'un qui pourra me dire : "Générale, j'ai vu ce qui se passe là-bas, et voici ce que je pense."*
 > 
-> *C'est vous, Marcus. Pas malgré vos doutes. À cause de vos doutes."*
+> *Le Sergent exécutera. Vous, vous jugerez. C'est pour ça que vous êtes là, Marcus. Pas malgré vos doutes. À cause de vos doutes."*
 
 ---
 

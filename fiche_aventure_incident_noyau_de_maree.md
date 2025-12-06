@@ -279,14 +279,19 @@ Garde ces PNJ souples : adapte leur nom, leur genre et leur style à ta table.
   - **Expérience de combat** : Quasi nulle — a survécu en restant dans les bases fortifiées, gérant la logistique. N'a jamais tué personne directement.
   - **Complexe d'imposture** : Sait qu'il n'est pas un "vrai" soldat. Les 500 militaires professionnels survivants le tolèrent mais ne le respectent pas vraiment.
   - **Relation avec Candi** : La vénère et la craint. A reçu cette mission comme une chance de prouver sa valeur — ou de mourir en essayant.
-- **Rôle** : Officier intermédiaire qui dirige physiquement les PJ sur le promontoire côtier.
+- **Rôle** : Coordinateur de mission, **stationné au promontoire côtier** (ne descend pas dans l'océan).
 - **Fonction** :
   - transmet les ordres **officiels** de Candi (via Jan ou l'état-major) et de Varma ;
-  - arbitre les tensions entre "sécurité de la mission" et "expériences" ;
-  - **ne sait pas** qu'un soldat de l'escouade a reçu un ordre secret de destruction.
+  - coordonne les communications entre l'escouade sous-marine et le commandement ;
+  - surveille la situation depuis la surface (Aquatides, conditions météo, menaces) ;
+  - **partage les ordres secrets avec le Sergent** : tous deux savent qu'une option de destruction nucléaire existe ;
+  - **si l'ordre est donné** : transmettra le signal d'activation au Sergent via communicateur crypté.
 - **En jeu** :
-  - peut devenir un allié ou un obstacle selon que les PJ respectent les protocoles ou non ;
-  - si la vérité éclate, devra choisir entre obéir à Candi ou protéger les People‑of‑the‑Sea.
+  - reste au promontoire pendant que les PJ descendent avec le Sergent et Varma ;
+  - peut devenir un allié (fournit des informations, conseils) ou un obstacle (pression pour respecter les protocoles) ;
+  - **si la vérité éclate** : devra choisir entre transmettre le signal de destruction ou refuser l'ordre de Candi ;
+  - peut intercepter des communications, observer les Aquatides depuis la surface, coordonner une évacuation d'urgence ;
+  - **dilemme moral** : il sait ce que le Sergent porte, mais ne peut rien dire aux PJ civils.
 
 ### Le porteur du détonateur — 3 options au choix du MJ
 
