@@ -20,20 +20,97 @@
 
 - **Qui sont les PJ ?**
   - Membres **mineurs** de l’équipage originel (officiers subalternes, techniciens, éclaireurs, spécialistes…) ;
-  - ou **enfants des premières générations** de l’équipage.
+  - ou **enfants des premières générations** de l’équipage ;
+  - **PAS des soldats professionnels** : la plupart sont des civils (ingénieurs, médecins, biologistes, enseignants) **forcés de servir** comme combattants par manque de personnel militaire.
 - Ils sont **nettement au‑dessus** d’un humain ordinaire (accès à la technologie, formation, longévité) mais **en dessous** des grandes figures comme Sam, Yama, Brahma, Kubera, etc.
 - Ils ne deviendront **jamais des dieux du panthéon hindou** :
   - soit parce qu’une barrière sociale/technique les en empêche,
   - soit parce qu’ils sont classés autrement dans les systèmes de Karma,
   - soit par choix (dissidence, fuite, etc.).
 
+### 1.2bis. Hiérarchie de commandement de la colonie
+
+**Commandante suprême** : **Générale Candace Nowak ("Candi")** — future Durga/Kali
+- Commandante de la colonie et des opérations militaires au sol
+- Stratège brillante, impitoyable, pragmatique
+- Porte le poids des décisions impossibles (dont l'option nucléaire contre le Noyau de marée)
+
+**Ses lieutenants** (les futurs "dieux") :
+- **Sameer Kumar ("Sam")** → futur Bouddha/Mahasamatman (opérations psychologiques, diplomatie)
+- **Subhash Vala** → futur Shiva (destruction, armes lourdes)
+- **Burhan Hamidi** → futur Ganesha (logistique, ingénierie)
+- **Madeleine Smith** → future Brahma (sciences, recherche)
+- **Chris Blain** → futur Kubera (ressources, économie de guerre)
+- **Parvati Gole** → future Ratri (renseignement, opérations nocturnes)
+
+**Capitaine du vaisseau** : **Jan Olvegg** — Capitaine de *L'Étoile de l'Inde*
+- Responsable de la flotte et des opérations spatiales
+- Subordonné à Candi pour les opérations coloniales
+- Intermédiaire entre l'orbite et le sol
+- Transmet les ordres de Candi, coordonne les frappes orbitales
+
+**Autres figures clés** :
+- **Dr Rakesh Varma** — Médecin en chef et chercheur en persistance de conscience, père de Yuvraj (futur Yama)
+
 ### 1.3. Époques et campagnes
 
 - Le jeu est conçu pour alterner **plusieurs époques** du monde, d’une aventure à l’autre :
-  - époque de **conquête** : monde encore à dompter, technologie encore largement accessible, créatures autochtones puissantes et mal connues ;
+  - époque de **conquête** (3-5 ans après l'arrivée) : monde encore à dompter, technologie encore largement accessible, créatures autochtones puissantes et mal connues, **colonisation au bord de l'effondrement** ;
   - époque de **cristallisation du pouvoir** : certains First se sont élevés, les systèmes de Karma et de contrôle se mettent en place ;
   - époque de **stabilisation proto‑divine** : le panthéon hindou commence à se dessiner, la technologie est monopolisée par une élite.
 - Entre ces époques, les PJ peuvent **mourir, être réassignés, se réincarner** — et on rejoue les mêmes âmes sous de nouvelles formes.
+
+#### 1.3.1. Époque de conquête : la catastrophe démographique
+
+**Les chiffres de la survie** :
+- **30 000 colons** sont partis de la Terre à bord de *L'Étoile de l'Inde*
+- Après **3-5 ans** : seulement **3 000 à 5 000 survivants** (83-90% de mortalité)
+- **Pertes principales** :
+  - 60% : Guerre contre les Rakashas (prédateurs énergétiques)
+  - 20% : Maladies et intoxication aux spores des Mycoselenites
+  - 10% : Accidents et prédateurs
+  - 10% : Famine et épuisement
+
+**Composition des survivants** :
+- ~2 000 adultes en âge de combattre (beaucoup blessés, traumatisés)
+  - **500 militaires professionnels** sur 10 000 initiaux (95% de pertes)
+  - **1 500 civils armés** (forcés de combattre)
+- ~1 000 enfants et adolescents
+- ~500 personnes âgées ou invalides
+- Quelques dizaines de Premiers (dispersés sur plusieurs fronts)
+
+**Réalité du terrain** :
+- Formation accélérée : 2 semaines d'entraînement → déploiement
+- Équipement rationné, souvent de seconde main
+- Fatigue chronique : 16h/jour de travail
+- Moral en chute libre : suicides, désertions évitées de justesse
+- **La mort est encore définitive** pour presque tout le monde
+
+#### 1.3.2. Les Mycoselenites : menace écologique planétaire
+
+**Nature** :
+- Formations fongiques titanesques couvrant **15% des surfaces continentales**
+- Hauteur : jusqu'à 50 mètres, chapeaux larges comme des terrains de football
+- Réseaux de mycelia s'étendant sur des centaines de kilomètres
+- Libèrent des **spores cuivrées** créant l'atmosphère rouge de la planète
+
+**Synergie avec le Noyau de marée** :
+- Le Noyau pulse des champs EM qui stimulent la croissance des Mycoselenites
+- Les Mycoselenites agissent comme **amplificateurs biologiques** du signal du Noyau
+- Écosystème symbiotique : Noyau ↔ Mycoselenites ↔ People-of-the-Sea
+
+**Menace pour les humains** :
+- **Effets respiratoires** : Fibrose pulmonaire (2-3 ans d'exposition)
+- **Effets neurologiques** : Migraines, hallucinations, "brume mentale"
+- **Effets génétiques** : Mutations, fausses couches, malformations
+- **Espérance de vie réduite** : 20-30 ans de moins
+- Les mammifères natifs ont un organe spécialisé de filtrage que les humains n'ont pas
+
+**Pourquoi la terraformation échoue** :
+- Filtres orbitaux saturés en quelques semaines
+- Mycoselenites repoussent en quelques mois (nourris par le Noyau)
+- Tant que le Noyau existe, la colonisation est condamnée
+- **Verdict** : Détruire le Noyau = tuer les Mycoselenites + les People-of-the-Sea = permettre la survie humaine
 
 ### 1.4. Le Universal Fire comme réseau technologique
 
@@ -552,6 +629,44 @@ Même si les PJ n’ont pas (encore) de véritables Aspects/Attributes divins, l
   - poser des **choix moraux** : accepter une réincarnation « confortable » mais compromettante, ou une vie difficile mais fidèle à certaines valeurs.
 - La question « *Quel genre de dieu aurais‑tu pu être ?* » plane au‑dessus des PJ, même s’ils n’accéderont jamais à ce rang.
 
+### 6.4. L'aventure d'ouverture : L'Incident du Noyau de Marée
+
+**Contexte** : 3-5 ans après l'arrivée, la colonie est au bord de l'effondrement. Le **Noyau de marée**, structure psycho-énergétique sous-marine sacrée pour les People-of-the-Sea, est une menace existentielle pour les humains.
+
+**Le dilemme moral central** :
+- Le Noyau agit comme un cœur électromagnétique planétaire
+- Il nourrit les Mycoselenites qui empoisonnent lentement tous les colons
+- Il rend la terraformation impossible
+- **Mais** : Le Noyau est le cœur de la mémoire collective des People-of-the-Sea
+- **Équation impossible** : Détruire le Noyau = sauver l'humanité mais exterminer une civilisation ancienne
+
+**La mission** :
+- **Briefing officiel** : Sécuriser un promontoire côtier, permettre des observations scientifiques du Noyau
+- **Ordres secrets** : Un sergent (un des 500 derniers soldats professionnels) porte un détonateur nucléaire
+  - Ordres de Candi Nowak : placer le détonateur au cœur du Noyau
+  - Signal d'activation transmis par Jan depuis l'orbite
+  - Le sergent ne doit révéler sa mission à personne
+- **Les PJ** : Civils forcés de servir comme agents de terrain, accompagnent le sergent sans connaître sa mission secrète
+
+**L'Incident** :
+- Les observations du Dr Varma sur le Noyau déclenchent un accident
+- Le Noyau tente de "capturer" les signatures énergétiques des intrus
+- Les profils d'identité des PJ se **fusionnent** accidentellement
+- Création du **premier "cluster d'identité partagée"** de l'histoire humaine
+- Ce cluster sera redécouvert des décennies plus tard, forçant les PJ à se réincarner ensemble
+
+**Conséquences narratives** :
+- Les PJ ne font pas partie de l'élite destinée à la divinité (ont remis en question les ordres, protégé des People-of-the-Sea, etc.)
+- Leurs âmes restent liées à travers toutes leurs incarnations futures
+- L'Incident est classé comme "anomalie" et partiellement oublié
+
+**Utilisation en jeu** :
+- Cette aventure sert de **prologue** à une campagne multi-incarnations
+- Elle établit pourquoi les PJ sont liés entre eux
+- Elle pose les bases du dilemme moral : survie vs génocide
+- Elle montre la colonisation à son point le plus désespéré
+- Elle introduit les futurs "dieux" comme lieutenants de Candi
+
 ---
 
 ## 7. Création de personnage (système de points)
@@ -722,10 +837,10 @@ adapter selon la campagne.
     *Focus typique* : lentilles, micro‑capteurs, interface de monitoring.
 
   - **Écho mémoriel** (Expert — Psy)  
-    En se concentrant sur un lieu ou un objet, le PJ capte des « traces »
-    émotionnelles récentes, des impressions floues d’événements passés. Cela
-    reflète, à une échelle très limitée et imprécise, les capacités des
-    **psych‑probes** à explorer un psych‑tape complet.  
+    Le PJ orchestre des expériences quasi mystiques (rêves dirigés, visions,
+    apparitions) pour orienter croyances et décisions. Il s’agit d’une version
+    **locale, scénarisée et techniquement encadrée** des illusions de **Mara**,
+    loin de la puissance qu’il manifeste dans le roman.  
     *Focus typique* : psych‑probe portatif, relais d’archive, chambre de
     résonance.
 
@@ -783,3 +898,16 @@ Ce guide résume l’état actuel du design : structure générale, rôle des PJ
 - l’extension des listes d’Attributes typiques pour les PJ (par domaine et par niveau),
 - d’autres exemples de foci et de reliques,
 - des cadres de campagnes détaillés (listes de scénarios par époque).
+
+**Ajouts récents** :
+- Hiérarchie de commandement de la colonie (Candi Nowak, ses lieutenants, Jan Olvegg)
+- Détails sur la catastrophe démographique (30 000 → 3 000-5 000 survivants)
+- Les Mycoselenites et leur synergie mortelle avec le Noyau de marée
+- L'aventure d'ouverture "L'Incident du Noyau de Marée" et son dilemme moral
+- Le contexte désespéré de la colonisation (95% de pertes militaires, civils forcés de combattre)
+
+Il est destiné à évoluer au fur et à mesure que l'on détaillera :
+- l'extension des listes d'Attributes typiques pour les PJ (par domaine et par niveau),
+- d'autres exemples de foci et de reliques,
+- des cadres de campagnes détaillés (listes de scénarios par époque),
+- d'autres aventures pour différentes époques de la colonisation.
